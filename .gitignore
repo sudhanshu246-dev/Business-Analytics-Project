@@ -1,0 +1,25 @@
+# Ignore environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Streamlit
+.streamlit/
+
+# Uncomment if you want to ignore generated outputs
+# data/processed/
+
+# OS
+.DS_Store
+Thumbs.db
