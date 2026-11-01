@@ -1,0 +1,1001 @@
+OrderID,OrderDate,CustomerID,CustomerName,Product,Category,Region,Quantity,UnitPrice,Discount,SalesAmount,Profit
+ORD00001,2023-02-09,C0098,Blair Rodriguez,Headphones,Electronics,East,2,92.1,0.05,174.99,120.02
+ORD00002,2023-09-09,C0042,Alex Miller,Pen,Office Supplies,North,3,2.03,0,6.09,4.64
+ORD00003,2023-02-14,C0024,Jordan Williams,Running Shoes,Sports,North,2,122.21,0,244.42,168.01
+ORD00004,2023-11-09,C0088,Blair Davis,Stapler,Office Supplies,South,10,8.19,0.05,77.8,59.48
+ORD00005,2024-10-23,C0132,Jamie Rodriguez,Tennis Racket,Sports,Central,10,94.39,0,943.9,670.69
+ORD00006,2024-10-22,C0047,Taylor Davis,Shoes,Clothing,East,7,89.91,0,629.37,437.16
+ORD00007,2024-04-12,C0100,Skyler Garcia,Sofa,Furniture,North,6,909.79,0.1,4912.87,2530.46
+ORD00008,2023-08-23,C0104,Blair Rodriguez,Bookshelf,Furniture,North,2,182.46,0.15,310.18,200.93
+ORD00009,2024-07-03,C0114,Jamie Davis,Stapler,Office Supplies,North,4,8.01,0.1,28.84,20.98
+ORD00010,2024-12-02,C0070,Jamie Miller,Smartphone,Electronics,North,8,733.53,0,5868.24,2923.88
+ORD00011,2024-03-19,C0003,Blair Miller,Tablet,Electronics,North,2,456.52,0.1,821.74,425.29
+ORD00012,2024-07-29,C0086,Jamie Garcia,Running Shoes,Sports,North,1,122.85,0,122.85,84.74
+ORD00013,2024-11-15,C0061,Taylor Smith,Desk,Furniture,Central,2,240.76,0.15,409.29,251.59
+ORD00014,2023-10-26,C0100,Casey Williams,Shoes,Clothing,Central,5,86.28,0,431.4,292.99
+ORD00015,2024-03-18,C0016,Jordan Davis,File Folder,Office Supplies,North,2,4.13,0.15,7.02,5.14
+ORD00016,2023-06-12,C0134,Casey Rodriguez,Stapler,Office Supplies,Central,8,8.06,0,64.48,49.72
+ORD00017,2023-08-19,C0146,Casey Johnson,Yoga Mat,Sports,East,6,25.99,0.1,140.35,95.84
+ORD00018,2024-05-27,C0021,Morgan Rodriguez,Yoga Mat,Sports,South,4,25.59,0,102.36,70.5
+ORD00019,2023-03-27,C0088,Blair Rodriguez,Smartphone,Electronics,South,5,718.84,0.1,3234.78,1354.8
+ORD00020,2023-09-21,C0148,Drew Garcia,Yoga Mat,Sports,West,8,24.42,0.05,185.59,126.56
+ORD00021,2024-09-07,C0127,Casey Martinez,Bookshelf,Furniture,North,3,177.57,0.1,479.44,315.61
+ORD00022,2023-11-20,C0092,Morgan Davis,Headphones,Electronics,East,8,85.88,0,687.04,467.58
+ORD00023,2023-09-29,C0045,Blair Miller,Table,Furniture,East,7,386.33,0,2704.31,1693.72
+ORD00024,2023-02-26,C0098,Alex Martinez,Headphones,Electronics,West,2,89.97,0,179.94,123.57
+ORD00025,2023-09-06,C0115,Cameron Davis,Pen,Office Supplies,Central,8,1.95,0.1,14.04,10.32
+ORD00026,2023-10-09,C0087,Alex Williams,Dumbbells,Sports,North,4,60.27,0.15,204.92,148.37
+ORD00027,2024-04-26,C0139,Jordan Garcia,Monitor,Electronics,East,8,311.04,0.15,2115.07,979.28
+ORD00028,2024-09-07,C0074,Skyler Smith,Bookshelf,Furniture,East,1,179.93,0.05,170.93,116.39
+ORD00029,2024-01-02,C0109,Alex Martinez,Jeans,Clothing,North,2,61.29,0,122.58,86.56
+ORD00030,2024-06-27,C0050,Cameron Davis,Jeans,Clothing,West,4,61.38,0,245.52,166.85
+ORD00031,2024-07-24,C0072,Morgan Rodriguez,Sofa,Furniture,North,9,935.71,0,8421.39,5042.02
+ORD00032,2024-10-31,C0112,Blair Garcia,Dress,Clothing,South,8,83.52,0,668.16,476.81
+ORD00033,2023-09-08,C0054,Taylor Miller,Jeans,Clothing,North,4,57.14,0,228.56,156.34
+ORD00034,2023-09-10,C0112,Cameron Williams,Monitor,Electronics,East,6,314.1,0.1,1696.14,879.36
+ORD00035,2023-06-06,C0120,Morgan Miller,Headphones,Electronics,South,6,89.86,0,539.16,372.64
+ORD00036,2024-05-23,C0011,Cameron Williams,Running Shoes,Sports,West,7,123.73,0.1,779.5,501.66
+ORD00037,2024-09-21,C0005,Drew Rodriguez,Smartphone,Electronics,East,2,670.15,0.05,1273.28,501.51
+ORD00038,2023-04-08,C0084,Taylor Brown,Paper Ream,Office Supplies,West,4,9.56,0.05,36.33,24.46
+ORD00039,2023-06-16,C0023,Casey Smith,Desk,Furniture,North,3,258.99,0.05,738.12,518.83
+ORD00040,2023-03-03,C0015,Jordan Johnson,Table,Furniture,West,8,382.52,0.05,2907.15,1786.51
+ORD00041,2023-07-31,C0062,Morgan Miller,Smartphone,Electronics,East,1,704.24,0,704.24,336.72
+ORD00042,2023-08-23,C0016,Alex Rodriguez,Chair,Furniture,North,1,122.07,0,122.07,83.67
+ORD00043,2024-09-11,C0140,Cameron Miller,Smartphone,Electronics,Central,5,726.24,0,3631.2,1789.72
+ORD00044,2023-12-25,C0081,Alex Garcia,Paper Ream,Office Supplies,Central,3,9.62,0.05,27.42,18.96
+ORD00045,2024-03-31,C0027,Skyler Rodriguez,Headphones,Electronics,South,2,88.02,0.05,167.24,110.9
+ORD00046,2024-05-07,C0073,Blair Rodriguez,T-Shirt,Clothing,South,4,19.56,0,78.24,59.09
+ORD00047,2024-10-02,C0042,Morgan Garcia,T-Shirt,Clothing,South,5,20.94,0.15,89.0,66.28
+ORD00048,2023-03-17,C0093,Alex Jones,Smartphone,Electronics,East,10,716.07,0,7160.7,3517.81
+ORD00049,2024-07-21,C0031,Blair Johnson,Sofa,Furniture,East,7,889.1,0,6223.7,3569.14
+ORD00050,2024-09-26,C0026,Drew Miller,Paper Ream,Office Supplies,East,8,10.49,0,83.92,61.93
+ORD00051,2023-01-05,C0107,Jordan Johnson,Table,Furniture,South,7,403.39,0,2823.73,1798.93
+ORD00052,2023-11-09,C0017,Alex Johnson,Dumbbells,Sports,Central,7,58.34,0,408.38,307.48
+ORD00053,2023-07-12,C0080,Cameron Martinez,Jacket,Clothing,Central,10,118.34,0,1183.4,805.14
+ORD00054,2024-03-13,C0055,Drew Smith,Pen,Office Supplies,West,3,2.04,0,6.12,4.76
+ORD00055,2023-03-06,C0115,Skyler Brown,Smartphone,Electronics,West,3,731.69,0.15,1865.81,692.5
+ORD00056,2023-08-10,C0023,Drew Smith,Running Shoes,Sports,Central,9,125.1,0,1125.9,795.81
+ORD00057,2024-06-21,C0026,Alex Miller,Pen,Office Supplies,West,4,2.09,0.15,7.11,5.28
+ORD00058,2024-03-14,C0027,Taylor Smith,Running Shoes,Sports,South,6,123.81,0.15,631.43,407.22
+ORD00059,2023-09-27,C0073,Jamie Williams,Table,Furniture,Central,10,405.41,0,4054.1,2617.22
+ORD00060,2023-05-28,C0134,Skyler Martinez,Tennis Racket,Sports,North,2,86.49,0,172.98,116.6
+ORD00061,2024-04-21,C0096,Cameron Rodriguez,Jeans,Clothing,Central,9,62.82,0.05,537.11,362.44
+ORD00062,2023-04-10,C0126,Casey Miller,Dumbbells,Sports,South,4,62.76,0,251.04,191.35
+ORD00063,2024-06-02,C0026,Drew Rodriguez,Tablet,Electronics,South,2,446.68,0,893.36,532.37
+ORD00064,2024-03-02,C0069,Casey Davis,Running Shoes,Sports,South,6,114.75,0,688.5,463.66
+ORD00065,2024-01-13,C0011,Jordan Williams,Chair,Furniture,South,1,119.81,0.15,101.84,64.94
+ORD00066,2024-05-12,C0129,Alex Davis,Jeans,Clothing,South,9,59.95,0,539.55,371.32
+ORD00067,2024-04-28,C0102,Casey Smith,Paper Ream,Office Supplies,West,9,10.06,0.15,76.96,50.14
+ORD00068,2023-12-28,C0094,Casey Brown,T-Shirt,Clothing,Central,6,20.07,0.05,114.4,84.73
+ORD00069,2023-07-09,C0033,Drew Brown,Running Shoes,Sports,West,10,121.91,0.15,1036.23,645.57
+ORD00070,2024-01-01,C0140,Cameron Johnson,T-Shirt,Clothing,East,6,19.14,0.15,97.61,68.42
+ORD00071,2024-09-06,C0125,Blair Miller,Chair,Furniture,West,2,124.46,0.1,224.03,148.17
+ORD00072,2024-02-29,C0126,Taylor Miller,T-Shirt,Clothing,North,4,20.3,0,81.2,61.86
+ORD00073,2023-05-04,C0095,Jordan Brown,File Folder,Office Supplies,North,7,4.12,0,28.84,21.9
+ORD00074,2023-02-11,C0107,Alex Johnson,Monitor,Electronics,East,8,301.9,0.15,2052.92,906.61
+ORD00075,2023-12-08,C0048,Taylor Smith,Running Shoes,Sports,West,7,122.01,0.15,725.96,455.74
+ORD00076,2023-11-20,C0074,Jordan Garcia,Shoes,Clothing,Central,6,87.07,0,522.42,356.89
+ORD00077,2024-04-27,C0040,Morgan Garcia,Jacket,Clothing,South,4,116.95,0.1,421.02,261.57
+ORD00078,2024-04-19,C0124,Casey Davis,Shoes,Clothing,West,4,86.3,0,345.2,227.15
+ORD00079,2024-02-08,C0120,Taylor Martinez,Jacket,Clothing,East,7,115.04,0.15,684.49,406.71
+ORD00080,2023-02-28,C0042,Jamie Rodriguez,Shoes,Clothing,West,10,89.73,0.1,807.57,514.56
+ORD00081,2024-06-16,C0061,Jamie Johnson,Dumbbells,Sports,Central,10,58.34,0,583.4,436.02
+ORD00082,2023-05-19,C0044,Casey Martinez,Shoes,Clothing,South,2,90.31,0,180.62,124.42
+ORD00083,2023-08-26,C0051,Cameron Brown,Sofa,Furniture,Central,7,930.57,0,6513.99,3789.09
+ORD00084,2023-06-12,C0086,Skyler Williams,Basketball,Sports,East,5,29.67,0,148.35,98.48
+ORD00085,2024-04-17,C0112,Jordan Johnson,Laptop,Electronics,Central,4,1218.31,0,4873.24,1699.98
+ORD00086,2023-06-09,C0061,Cameron Williams,Basketball,Sports,West,10,30.79,0.15,261.71,162.73
+ORD00087,2024-05-14,C0080,Jamie Miller,Bookshelf,Furniture,Central,6,181.8,0.15,927.18,567.99
+ORD00088,2024-03-27,C0130,Jordan Martinez,Bookshelf,Furniture,South,3,184.88,0,554.64,388.03
+ORD00089,2023-04-07,C0078,Jordan Smith,Bookshelf,Furniture,West,3,180.02,0,540.06,373.47
+ORD00090,2024-03-18,C0020,Cameron Jones,Jeans,Clothing,Central,9,58.2,0.15,445.23,279.5
+ORD00091,2023-01-10,C0024,Jamie Rodriguez,Paper Ream,Office Supplies,East,4,9.88,0,39.52,28.7
+ORD00092,2024-07-11,C0080,Taylor Davis,T-Shirt,Clothing,North,3,20.35,0.05,58.0,43.11
+ORD00093,2024-04-23,C0078,Taylor Davis,Sofa,Furniture,West,6,905.31,0,5431.86,3211.49
+ORD00094,2024-12-20,C0066,Cameron Martinez,Paper Ream,Office Supplies,Central,2,9.53,0,19.06,13.64
+ORD00095,2024-04-06,C0115,Jamie Williams,Laptop,Electronics,South,1,1174.36,0.15,998.21,228.14
+ORD00096,2024-11-22,C0141,Morgan Miller,Table,Furniture,East,6,391.15,0,2346.9,1514.92
+ORD00097,2024-02-09,C0137,Jamie Smith,Jeans,Clothing,South,5,60.8,0.1,273.6,182.4
+ORD00098,2024-03-31,C0083,Alex Davis,Jeans,Clothing,East,10,62.07,0,620.7,432.68
+ORD00099,2023-07-06,C0126,Jordan Williams,T-Shirt,Clothing,South,4,20.48,0,81.92,63.53
+ORD00100,2024-04-30,C0015,Jamie Martinez,Yoga Mat,Sports,West,3,25.56,0.15,65.18,42.14
+ORD00101,2024-10-26,C0078,Taylor Garcia,Paper Ream,Office Supplies,South,3,10.27,0,30.81,22.5
+ORD00102,2023-02-26,C0062,Jordan Davis,Jacket,Clothing,West,8,117.08,0.1,842.98,542.79
+ORD00103,2024-09-28,C0096,Jordan Brown,Chair,Furniture,South,9,125.51,0.05,1073.11,744.01
+ORD00104,2024-10-03,C0128,Cameron Brown,Laptop,Electronics,East,2,1195.46,0.1,2151.83,628.67
+ORD00105,2024-11-10,C0133,Morgan Jones,Jeans,Clothing,East,9,61.72,0.1,499.93,323.39
+ORD00106,2023-09-11,C0040,Taylor Garcia,Jacket,Clothing,South,3,116.17,0.1,313.66,197.51
+ORD00107,2023-01-22,C0095,Skyler Martinez,Pen,Office Supplies,North,10,1.93,0.05,18.34,13.7
+ORD00108,2023-11-07,C0106,Morgan Davis,Running Shoes,Sports,Central,6,124.72,0.15,636.07,411.32
+ORD00109,2024-12-19,C0066,Drew Garcia,Notebook,Office Supplies,Central,10,6.13,0,61.3,42.26
+ORD00110,2023-05-17,C0037,Jamie Smith,Dumbbells,Sports,East,3,60.02,0.05,171.06,126.35
+ORD00111,2023-08-22,C0044,Skyler Williams,Dress,Clothing,East,4,81.37,0,325.48,227.58
+ORD00112,2023-07-14,C0002,Taylor Martinez,Desk,Furniture,Central,3,249.66,0.1,674.08,443.16
+ORD00113,2023-07-28,C0101,Jamie Rodriguez,Table,Furniture,North,4,385.49,0,1541.96,962.44
+ORD00114,2023-06-28,C0084,Morgan Garcia,Dumbbells,Sports,Central,7,61.91,0.15,368.36,269.41
+ORD00115,2024-04-14,C0029,Alex Davis,Tennis Racket,Sports,North,1,87.67,0,87.67,59.59
+ORD00116,2023-05-16,C0086,Morgan Jones,Basketball,Sports,South,7,31.01,0,217.07,153.73
+ORD00117,2024-05-03,C0085,Blair Williams,Table,Furniture,South,8,418.55,0,3348.4,2209.22
+ORD00118,2023-04-22,C0119,Taylor Garcia,Dress,Clothing,North,10,79.02,0.15,671.67,424.54
+ORD00119,2023-09-13,C0058,Morgan Williams,Desk,Furniture,North,10,256.73,0.1,2310.57,1555.03
+ORD00120,2023-09-21,C0096,Casey Johnson,File Folder,Office Supplies,South,5,4.1,0,20.5,15.5
+ORD00121,2023-03-22,C0134,Blair Miller,Dumbbells,Sports,South,1,58.79,0,58.79,44.85
+ORD00122,2023-02-09,C0019,Alex Johnson,Paper Ream,Office Supplies,North,8,10.29,0.1,74.09,51.14
+ORD00123,2023-01-11,C0141,Morgan Garcia,Dress,Clothing,South,4,77.29,0.1,278.24,183.53
+ORD00124,2023-11-06,C0067,Taylor Davis,Bookshelf,Furniture,North,3,173.33,0.1,467.99,299.53
+ORD00125,2024-11-13,C0119,Casey Johnson,Headphones,Electronics,South,9,92.14,0,829.26,577.23
+ORD00126,2024-06-30,C0144,Casey Davis,Jeans,Clothing,Central,10,57.46,0.1,517.14,329.48
+ORD00127,2023-03-15,C0024,Drew Brown,Notebook,Office Supplies,West,4,5.83,0,23.32,15.68
+ORD00128,2024-06-30,C0072,Blair Martinez,Jeans,Clothing,Central,7,61.07,0,427.49,298.1
+ORD00129,2024-03-14,C0036,Drew Johnson,Tablet,Electronics,East,2,441.77,0.05,839.36,444.91
+ORD00130,2023-10-16,C0087,Jordan Garcia,Table,Furniture,West,2,395.51,0,791.02,516.18
+ORD00131,2024-02-07,C0095,Jamie Smith,Pen,Office Supplies,East,4,1.95,0.1,7.02,5.2
+ORD00132,2023-08-03,C0056,Jordan Rodriguez,Sofa,Furniture,East,8,896.27,0.15,6094.64,3040.88
+ORD00133,2023-08-30,C0108,Drew Williams,Sofa,Furniture,North,3,937.72,0,2813.16,1655.94
+ORD00134,2024-03-22,C0044,Cameron Jones,File Folder,Office Supplies,East,10,3.86,0,38.6,28.82
+ORD00135,2023-10-28,C0037,Jamie Martinez,Smartphone,Electronics,North,8,734.99,0,5879.92,2692.67
+ORD00136,2023-05-29,C0046,Blair Rodriguez,Desk,Furniture,Central,3,242.18,0,726.54,490.09
+ORD00137,2024-11-15,C0135,Blair Garcia,Basketball,Sports,South,1,30.77,0,30.77,21.72
+ORD00138,2024-09-11,C0066,Morgan Miller,Dress,Clothing,Central,2,77.24,0,154.48,109.37
+ORD00139,2023-10-27,C0046,Drew Smith,File Folder,Office Supplies,West,10,3.99,0,39.9,30.07
+ORD00140,2024-04-15,C0073,Jordan Johnson,Sofa,Furniture,South,10,874.4,0.05,8306.8,4664.94
+ORD00141,2023-01-24,C0053,Cameron Davis,Running Shoes,Sports,West,6,115.32,0,691.92,460.83
+ORD00142,2023-05-04,C0146,Blair Martinez,Tablet,Electronics,West,8,462.52,0.05,3515.15,2051.91
+ORD00143,2024-10-18,C0136,Morgan Williams,Pen,Office Supplies,East,4,2.09,0,8.36,6.47
+ORD00144,2023-09-24,C0112,Taylor Smith,Jacket,Clothing,East,3,124.76,0.1,336.85,220.59
+ORD00145,2024-05-21,C0100,Jordan Williams,Dress,Clothing,North,10,79.45,0,794.5,568.41
+ORD00146,2023-01-06,C0105,Jordan Martinez,T-Shirt,Clothing,North,6,19.2,0,115.2,85.36
+ORD00147,2023-11-12,C0138,Jordan Rodriguez,Sofa,Furniture,West,6,877.41,0.1,4738.01,2475.06
+ORD00148,2023-03-07,C0139,Alex Garcia,Basketball,Sports,North,5,30.65,0,153.25,103.4
+ORD00149,2024-06-04,C0118,Blair Smith,Pen,Office Supplies,South,9,2.09,0,18.81,14.74
+ORD00150,2024-07-25,C0049,Morgan Martinez,Paper Ream,Office Supplies,West,6,10.08,0.1,54.43,37.55
+ORD00151,2024-05-26,C0014,Casey Jones,Jeans,Clothing,Central,1,57.47,0,57.47,38.3
+ORD00152,2023-12-31,C0095,Casey Rodriguez,Smartphone,Electronics,East,8,672.36,0,5378.88,2295.88
+ORD00153,2023-07-02,C0084,Cameron Brown,Basketball,Sports,Central,2,29.48,0.15,50.12,31.93
+ORD00154,2024-07-28,C0147,Morgan Garcia,Notebook,Office Supplies,West,8,5.88,0,47.04,32.24
+ORD00155,2023-02-27,C0026,Jamie Rodriguez,Dumbbells,Sports,South,7,60.87,0.15,362.18,262.37
+ORD00156,2023-07-01,C0127,Casey Williams,Dumbbells,Sports,East,8,61.36,0,490.88,372.29
+ORD00157,2024-11-13,C0111,Alex Davis,Smartphone,Electronics,South,6,704.39,0,4226.34,2057.78
+ORD00158,2024-10-22,C0002,Blair Williams,Yoga Mat,Sports,North,1,24.94,0,24.94,17.08
+ORD00159,2024-05-04,C0098,Casey Williams,Sofa,Furniture,East,1,879.42,0.1,791.48,427.53
+ORD00160,2023-10-07,C0017,Blair Johnson,Smartphone,Electronics,North,7,674.87,0,4724.09,1958.72
+ORD00161,2024-12-26,C0113,Blair Miller,Tennis Racket,Sports,West,2,93.11,0,186.22,131.51
+ORD00162,2024-02-03,C0049,Morgan Rodriguez,Laptop,Electronics,North,4,1184.48,0,4737.92,1543.65
+ORD00163,2024-04-15,C0124,Cameron Johnson,File Folder,Office Supplies,South,1,4.01,0.05,3.81,2.86
+ORD00164,2024-05-28,C0052,Jamie Garcia,Dress,Clothing,East,4,79.21,0,316.84,221.08
+ORD00165,2024-01-26,C0022,Drew Rodriguez,Sofa,Furniture,East,2,939.46,0.15,1597.08,858.95
+ORD00166,2023-03-19,C0142,Casey Smith,Dumbbells,Sports,South,6,60.06,0.15,306.31,221.4
+ORD00167,2024-01-16,C0131,Drew Brown,Dress,Clothing,Central,7,80.39,0.15,478.32,308.26
+ORD00168,2023-03-19,C0055,Blair Garcia,Jacket,Clothing,Central,7,122.69,0,858.83,585.49
+ORD00169,2023-01-04,C0116,Alex Jones,T-Shirt,Clothing,North,8,20.1,0,160.8,122.13
+ORD00170,2023-05-18,C0027,Jordan Martinez,Shoes,Clothing,North,3,92.84,0,278.52,191.04
+ORD00171,2024-05-20,C0080,Morgan Rodriguez,Paper Ream,Office Supplies,North,9,9.89,0,89.01,63.03
+ORD00172,2024-11-19,C0013,Taylor Johnson,Paper Ream,Office Supplies,South,3,10.23,0.05,29.16,20.9
+ORD00173,2024-10-26,C0017,Casey Miller,Running Shoes,Sports,North,1,124.46,0,124.46,87.07
+ORD00174,2024-11-11,C0144,Cameron Garcia,Pen,Office Supplies,East,1,1.99,0.15,1.69,1.2
+ORD00175,2023-01-19,C0109,Cameron Smith,Dumbbells,Sports,South,7,60.2,0.1,379.26,279.7
+ORD00176,2023-05-23,C0044,Skyler Garcia,Stapler,Office Supplies,East,3,8.13,0,24.39,18.47
+ORD00177,2024-07-10,C0133,Casey Jones,Desk,Furniture,East,8,256.13,0.1,1844.14,1259.33
+ORD00178,2023-01-19,C0045,Drew Smith,Yoga Mat,Sports,South,1,24.3,0.15,20.66,12.96
+ORD00179,2023-04-08,C0060,Blair Rodriguez,Laptop,Electronics,North,3,1233.19,0,3699.57,1408.73
+ORD00180,2024-11-30,C0057,Skyler Brown,Tablet,Electronics,West,9,464.78,0,4183.02,2403.08
+ORD00181,2023-09-04,C0024,Skyler Miller,Chair,Furniture,West,2,118.35,0.05,224.86,151.6
+ORD00182,2024-06-03,C0072,Skyler Rodriguez,Paper Ream,Office Supplies,West,10,10.44,0,104.4,74.45
+ORD00183,2024-12-04,C0098,Alex Garcia,Pen,Office Supplies,East,8,1.98,0.15,13.46,9.67
+ORD00184,2024-02-24,C0006,Jordan Davis,Desk,Furniture,North,5,253.32,0.1,1139.94,744.99
+ORD00185,2024-08-26,C0094,Skyler Davis,Dress,Clothing,Central,9,80.63,0,725.67,517.69
+ORD00186,2023-11-28,C0140,Casey Rodriguez,Paper Ream,Office Supplies,East,6,9.89,0.15,50.44,34.03
+ORD00187,2023-07-09,C0082,Taylor Martinez,Jeans,Clothing,West,10,59.43,0,594.3,394.89
+ORD00188,2024-09-23,C0041,Blair Jones,Pen,Office Supplies,East,5,1.95,0,9.75,7.28
+ORD00189,2023-05-29,C0105,Alex Smith,Monitor,Electronics,Central,5,298.46,0,1492.3,814.64
+ORD00190,2024-10-31,C0035,Skyler Brown,T-Shirt,Clothing,East,9,19.07,0.1,154.47,110.7
+ORD00191,2023-11-29,C0126,Taylor Martinez,T-Shirt,Clothing,West,6,19.25,0,115.5,86.92
+ORD00192,2023-10-26,C0112,Jamie Brown,Yoga Mat,Sports,East,6,25.43,0,152.58,107.65
+ORD00193,2024-12-13,C0073,Morgan Garcia,Chair,Furniture,North,6,114.39,0.1,617.71,384.29
+ORD00194,2024-02-16,C0021,Drew Johnson,Desk,Furniture,South,2,258.89,0,517.78,358.68
+ORD00195,2023-12-22,C0104,Taylor Rodriguez,Dress,Clothing,South,2,82.48,0,164.96,117.8
+ORD00196,2023-08-14,C0110,Casey Miller,Dress,Clothing,West,8,78.02,0.1,561.74,376.51
+ORD00197,2024-10-18,C0129,Drew Rodriguez,Monitor,Electronics,West,8,308.41,0,2467.28,1352.66
+ORD00198,2024-08-03,C0029,Casey Miller,Pen,Office Supplies,North,8,1.98,0.1,14.26,10.38
+ORD00199,2023-11-13,C0063,Morgan Rodriguez,Dumbbells,Sports,North,1,62.86,0,62.86,48.9
+ORD00200,2023-07-28,C0119,Taylor Davis,Bookshelf,Furniture,East,9,176.22,0,1585.98,1095.26
+ORD00201,2023-08-27,C0009,Casey Williams,Laptop,Electronics,North,6,1151.03,0.05,6560.87,1797.13
+ORD00202,2023-04-06,C0028,Morgan Martinez,Pen,Office Supplies,East,4,2.09,0,8.36,6.46
+ORD00203,2023-03-26,C0076,Taylor Brown,Dress,Clothing,Central,10,76.08,0.05,722.76,477.74
+ORD00204,2024-01-20,C0109,Jordan Miller,Sofa,Furniture,East,2,887.77,0,1775.54,978.88
+ORD00205,2023-07-09,C0118,Cameron Miller,Stapler,Office Supplies,East,10,7.93,0,79.3,60.84
+ORD00206,2023-09-22,C0102,Blair Williams,Pen,Office Supplies,South,7,1.97,0,13.79,10.5
+ORD00207,2023-12-15,C0059,Drew Garcia,Monitor,Electronics,East,1,298.98,0,298.98,151.5
+ORD00208,2024-08-21,C0027,Cameron Martinez,Jacket,Clothing,North,4,115.55,0.05,439.09,284.48
+ORD00209,2023-07-04,C0059,Morgan Miller,Yoga Mat,Sports,North,9,25.66,0.1,207.85,140.02
+ORD00210,2023-12-02,C0036,Cameron Rodriguez,T-Shirt,Clothing,North,10,19.92,0.1,179.28,132.88
+ORD00211,2024-10-08,C0071,Casey Brown,Paper Ream,Office Supplies,West,4,9.8,0,39.2,27.69
+ORD00212,2023-05-01,C0029,Jamie Davis,Tablet,Electronics,Central,5,441.23,0.1,1985.54,999.79
+ORD00213,2024-10-17,C0122,Skyler Smith,Dumbbells,Sports,Central,3,61.53,0.15,156.9,115.7
+ORD00214,2024-03-28,C0020,Cameron Williams,Smartphone,Electronics,Central,10,703.25,0.05,6680.88,2692.55
+ORD00215,2024-11-27,C0037,Morgan Jones,Dumbbells,Sports,North,7,58.32,0.15,347.0,246.38
+ORD00216,2023-09-17,C0004,Taylor Martinez,Headphones,Electronics,North,9,93.95,0,845.55,588.32
+ORD00217,2024-06-30,C0093,Alex Garcia,Desk,Furniture,Central,3,255.78,0.05,728.97,493.42
+ORD00218,2023-08-13,C0075,Jordan Johnson,Pen,Office Supplies,West,3,1.93,0,5.79,4.42
+ORD00219,2024-09-05,C0133,Skyler Miller,Notebook,Office Supplies,Central,10,5.82,0,58.2,40.14
+ORD00220,2024-11-09,C0126,Alex Brown,Tablet,Electronics,West,6,436.88,0.15,2228.09,1079.6
+ORD00221,2023-07-06,C0065,Casey Jones,Yoga Mat,Sports,South,2,25.14,0,50.28,35.53
+ORD00222,2024-12-25,C0053,Drew Johnson,Dumbbells,Sports,North,4,57.8,0,231.2,173.98
+ORD00223,2024-10-15,C0035,Morgan Davis,File Folder,Office Supplies,South,6,4.12,0.05,23.48,17.82
+ORD00224,2023-08-29,C0064,Skyler Johnson,Tablet,Electronics,Central,3,462.33,0,1386.99,822.05
+ORD00225,2023-04-26,C0075,Alex Williams,Pen,Office Supplies,East,1,1.91,0,1.91,1.44
+ORD00226,2023-04-10,C0008,Drew Garcia,Table,Furniture,Central,8,400.77,0.05,3045.85,1911.09
+ORD00227,2024-06-11,C0002,Jamie Williams,T-Shirt,Clothing,South,1,19.41,0,19.41,14.67
+ORD00228,2024-02-25,C0076,Casey Johnson,Bookshelf,Furniture,North,3,179.94,0,539.82,374.08
+ORD00229,2023-06-20,C0034,Skyler Johnson,Dumbbells,Sports,Central,8,61.72,0,493.76,377.21
+ORD00230,2023-05-14,C0037,Blair Miller,Stapler,Office Supplies,West,4,7.98,0.05,30.32,22.39
+ORD00231,2024-02-18,C0015,Blair Jones,Monitor,Electronics,North,1,313.23,0.05,297.57,150.86
+ORD00232,2023-05-15,C0145,Blair Martinez,Bookshelf,Furniture,West,3,176.13,0,528.39,361.33
+ORD00233,2024-06-06,C0077,Skyler Martinez,Table,Furniture,South,4,380.16,0,1520.64,934.89
+ORD00234,2023-02-23,C0115,Jordan Rodriguez,Smartphone,Electronics,North,2,720.06,0,1440.12,646.62
+ORD00235,2024-12-28,C0016,Alex Smith,Jeans,Clothing,North,10,61.84,0.05,587.48,398.25
+ORD00236,2023-07-07,C0099,Alex Rodriguez,Paper Ream,Office Supplies,East,8,10.34,0,82.72,60.6
+ORD00237,2023-12-20,C0096,Skyler Smith,Bookshelf,Furniture,North,3,181.72,0.05,517.9,354.76
+ORD00238,2024-01-23,C0077,Cameron Williams,Tennis Racket,Sports,West,9,86.04,0.1,696.92,449.27
+ORD00239,2023-11-29,C0141,Drew Smith,Pen,Office Supplies,North,4,1.93,0,7.72,5.78
+ORD00240,2024-01-12,C0022,Skyler Williams,Tablet,Electronics,Central,1,467.6,0.15,397.46,205.08
+ORD00241,2023-08-17,C0149,Cameron Davis,Smartphone,Electronics,North,6,731.54,0,4389.24,2041.14
+ORD00242,2023-04-14,C0146,Jordan Jones,Dress,Clothing,East,8,83.5,0,668.0,470.81
+ORD00243,2023-10-07,C0130,Jamie Williams,Tablet,Electronics,South,7,453.61,0,3175.27,1860.25
+ORD00244,2024-03-05,C0099,Drew Miller,Dress,Clothing,Central,9,83.26,0.15,636.94,418.8
+ORD00245,2024-10-14,C0051,Alex Smith,Stapler,Office Supplies,North,6,8.27,0.05,47.14,35.42
+ORD00246,2024-01-08,C0069,Jamie Rodriguez,Notebook,Office Supplies,Central,1,6.01,0.05,5.71,3.79
+ORD00247,2023-06-21,C0033,Skyler Davis,Pen,Office Supplies,Central,10,1.92,0,19.2,14.58
+ORD00248,2023-04-01,C0004,Morgan Rodriguez,Laptop,Electronics,Central,3,1195.43,0,3586.29,1343.18
+ORD00249,2024-09-16,C0106,Jamie Jones,Dumbbells,Sports,Central,8,58.24,0,465.92,352.43
+ORD00250,2024-05-22,C0013,Blair Garcia,Basketball,Sports,North,1,30.41,0.15,25.85,16.05
+ORD00251,2024-03-09,C0088,Taylor Williams,Pen,Office Supplies,West,7,2.08,0,14.56,11.33
+ORD00252,2024-11-23,C0020,Alex Rodriguez,Stapler,Office Supplies,South,1,8.03,0,8.03,6.13
+ORD00253,2023-08-09,C0102,Taylor Johnson,Laptop,Electronics,West,4,1249.66,0,4998.64,1926.78
+ORD00254,2023-06-18,C0130,Jordan Williams,Pen,Office Supplies,Central,7,2.01,0,14.07,10.81
+ORD00255,2023-03-23,C0067,Alex Johnson,Monitor,Electronics,South,1,294.11,0.1,264.7,127.91
+ORD00256,2023-10-29,C0002,Jordan Rodriguez,Notebook,Office Supplies,Central,4,5.97,0,23.88,16.32
+ORD00257,2024-07-04,C0080,Blair Johnson,Notebook,Office Supplies,North,10,6.13,0,61.3,41.37
+ORD00258,2023-05-01,C0073,Jamie Johnson,Dumbbells,Sports,South,5,58.8,0.05,279.3,204.45
+ORD00259,2024-05-22,C0031,Cameron Jones,Jeans,Clothing,North,10,57.66,0,576.6,396.42
+ORD00260,2024-01-25,C0004,Jamie Brown,T-Shirt,Clothing,North,8,19.36,0.05,147.14,110.86
+ORD00261,2023-11-29,C0086,Cameron Williams,Jacket,Clothing,West,3,122.18,0.1,329.89,218.55
+ORD00262,2024-08-04,C0004,Blair Johnson,Notebook,Office Supplies,West,1,6.29,0,6.29,4.44
+ORD00263,2023-04-27,C0057,Alex Johnson,Monitor,Electronics,West,3,288.45,0.1,778.81,331.35
+ORD00264,2024-04-21,C0140,Morgan Rodriguez,Smartphone,Electronics,West,4,706.9,0,2827.6,1269.99
+ORD00265,2024-09-07,C0116,Alex Williams,Dress,Clothing,West,7,78.73,0.05,523.55,363.63
+ORD00266,2024-12-13,C0069,Skyler Martinez,Chair,Furniture,North,5,116.45,0.05,553.14,364.77
+ORD00267,2023-11-27,C0090,Morgan Brown,Smartphone,Electronics,West,2,719.44,0.15,1223.05,431.26
+ORD00268,2024-08-01,C0028,Drew Williams,Pen,Office Supplies,South,8,2.02,0,16.16,12.56
+ORD00269,2024-02-26,C0145,Drew Johnson,Chair,Furniture,South,4,118.19,0.15,401.85,248.37
+ORD00270,2024-01-11,C0137,Drew Williams,Tennis Racket,Sports,East,7,92.09,0.1,580.17,380.52
+ORD00271,2023-10-29,C0120,Cameron Jones,Jacket,Clothing,West,3,119.06,0,357.18,242.95
+ORD00272,2023-10-02,C0045,Casey Miller,T-Shirt,Clothing,East,1,19.91,0,19.91,15.01
+ORD00273,2024-01-04,C0037,Alex Garcia,Bookshelf,Furniture,West,1,176.15,0,176.15,117.99
+ORD00274,2024-11-20,C0072,Jordan Williams,Stapler,Office Supplies,North,5,7.6,0.05,36.1,26.2
+ORD00275,2024-02-03,C0105,Casey Johnson,Paper Ream,Office Supplies,South,6,10.31,0,61.86,45.58
+ORD00276,2023-03-24,C0129,Taylor Williams,Bookshelf,Furniture,South,4,183.74,0,734.96,499.95
+ORD00277,2024-04-04,C0023,Skyler Miller,T-Shirt,Clothing,East,8,20.67,0.15,140.56,103.39
+ORD00278,2023-10-30,C0066,Cameron Martinez,Tablet,Electronics,Central,8,447.48,0,3579.84,2010.89
+ORD00279,2023-07-29,C0115,Casey Williams,Desk,Furniture,East,5,258.49,0,1292.45,932.02
+ORD00280,2024-04-21,C0075,Taylor Jones,Jacket,Clothing,East,6,119.52,0,717.12,487.18
+ORD00281,2024-11-26,C0061,Skyler Martinez,Smartphone,Electronics,East,5,715.14,0,3575.7,1705.04
+ORD00282,2023-03-07,C0031,Jamie Martinez,Basketball,Sports,South,3,30.82,0.1,83.21,55.28
+ORD00283,2023-06-26,C0088,Taylor Miller,Jeans,Clothing,West,2,60.44,0,120.88,83.26
+ORD00284,2023-10-24,C0066,Drew Brown,Monitor,Electronics,West,2,306.32,0.05,582.01,300.02
+ORD00285,2024-12-06,C0030,Cameron Smith,Pen,Office Supplies,North,9,1.99,0,17.91,13.82
+ORD00286,2024-07-23,C0090,Skyler Martinez,Tennis Racket,Sports,West,3,85.53,0,256.59,171.75
+ORD00287,2024-05-25,C0109,Alex Rodriguez,Tablet,Electronics,West,10,429.11,0,4291.1,2431.32
+ORD00288,2023-01-13,C0117,Drew Garcia,Notebook,Office Supplies,North,10,5.8,0.05,55.1,35.25
+ORD00289,2023-12-13,C0081,Casey Davis,Bookshelf,Furniture,Central,2,171.2,0,342.4,222.56
+ORD00290,2024-08-23,C0119,Taylor Brown,Notebook,Office Supplies,South,10,6.15,0.15,52.27,32.69
+ORD00291,2024-11-03,C0149,Casey Jones,Dumbbells,Sports,South,7,57.03,0.15,339.33,240.59
+ORD00292,2024-01-07,C0136,Drew Davis,Sofa,Furniture,North,7,897.79,0.15,5341.85,2675.96
+ORD00293,2024-12-04,C0064,Alex Jones,Running Shoes,Sports,North,1,120.05,0,120.05,80.34
+ORD00294,2024-11-11,C0020,Blair Smith,Desk,Furniture,West,1,238.33,0,238.33,159.96
+ORD00295,2024-07-21,C0062,Casey Martinez,Dumbbells,Sports,Central,4,60.27,0,241.08,183.35
+ORD00296,2023-08-07,C0047,Blair Williams,Basketball,Sports,Central,1,29.2,0.15,24.82,15.0
+ORD00297,2023-10-27,C0007,Drew Jones,Headphones,Electronics,North,1,92.1,0.1,82.89,52.9
+ORD00298,2024-03-05,C0003,Drew Rodriguez,Bookshelf,Furniture,East,1,182.81,0.05,173.67,114.06
+ORD00299,2024-08-25,C0050,Blair Brown,Laptop,Electronics,South,4,1219.74,0,4878.96,1852.07
+ORD00300,2024-07-06,C0122,Jamie Martinez,Sofa,Furniture,North,2,924.28,0,1848.56,1103.13
+ORD00301,2024-03-24,C0136,Alex Miller,Tablet,Electronics,South,9,429.95,0,3869.55,2071.92
+ORD00302,2023-06-28,C0033,Jamie Garcia,T-Shirt,Clothing,East,2,20.01,0.15,34.02,24.6
+ORD00303,2024-07-28,C0032,Drew Davis,Headphones,Electronics,North,6,93.62,0,561.72,395.32
+ORD00304,2024-05-25,C0110,Drew Brown,Shoes,Clothing,South,9,93.75,0,843.75,581.27
+ORD00305,2023-06-10,C0062,Skyler Davis,Notebook,Office Supplies,South,8,6.2,0,49.6,33.98
+ORD00306,2024-04-23,C0140,Jordan Smith,Jacket,Clothing,Central,2,123.4,0,246.8,174.77
+ORD00307,2023-10-11,C0107,Jordan Williams,Jeans,Clothing,West,5,61.01,0.1,274.55,182.51
+ORD00308,2024-01-27,C0126,Skyler Martinez,Jeans,Clothing,North,5,59.63,0.15,253.43,160.79
+ORD00309,2024-12-02,C0015,Jordan Garcia,Dumbbells,Sports,North,1,58.62,0,58.62,44.3
+ORD00310,2023-05-01,C0094,Skyler Rodriguez,Bookshelf,Furniture,West,5,180.51,0,902.55,629.09
+ORD00311,2024-01-16,C0047,Drew Davis,Tennis Racket,Sports,Central,8,93.67,0,749.36,531.46
+ORD00312,2023-12-02,C0111,Blair Martinez,Running Shoes,Sports,North,1,117.72,0,117.72,78.71
+ORD00313,2024-12-01,C0119,Jamie Johnson,Dress,Clothing,Central,10,79.76,0,797.6,565.53
+ORD00314,2023-05-26,C0026,Blair Rodriguez,Paper Ream,Office Supplies,East,10,10.06,0.1,90.54,63.48
+ORD00315,2023-03-20,C0122,Blair Garcia,Paper Ream,Office Supplies,North,10,9.54,0,95.4,66.62
+ORD00316,2024-03-25,C0019,Casey Smith,Jeans,Clothing,South,5,60.66,0.05,288.13,194.15
+ORD00317,2024-06-08,C0033,Taylor Williams,Running Shoes,Sports,South,7,116.52,0.05,774.86,495.55
+ORD00318,2024-04-25,C0139,Taylor Smith,Running Shoes,Sports,East,8,120.63,0.05,916.79,612.52
+ORD00319,2024-10-11,C0099,Cameron Rodriguez,Tennis Racket,Sports,East,4,86.15,0,344.6,228.53
+ORD00320,2023-11-16,C0104,Blair Miller,T-Shirt,Clothing,West,6,19.16,0.15,97.72,67.97
+ORD00321,2024-08-05,C0146,Casey Rodriguez,Smartphone,Electronics,West,10,673.89,0,6738.9,2891.87
+ORD00322,2024-07-20,C0006,Jordan Jones,Dumbbells,Sports,North,4,57.58,0.15,195.77,136.72
+ORD00323,2023-10-11,C0061,Taylor Williams,Table,Furniture,West,1,409.03,0.05,388.58,249.06
+ORD00324,2024-07-30,C0066,Skyler Johnson,Jeans,Clothing,North,2,58.27,0.15,99.06,60.1
+ORD00325,2023-03-05,C0040,Taylor Johnson,Running Shoes,Sports,South,10,115.37,0,1153.7,778.94
+ORD00326,2023-10-21,C0146,Morgan Williams,Tennis Racket,Sports,East,10,85.7,0.05,814.15,543.54
+ORD00327,2023-12-28,C0024,Taylor Johnson,Smartphone,Electronics,Central,3,732.51,0.15,1867.9,755.03
+ORD00328,2023-06-18,C0092,Alex Rodriguez,Sofa,Furniture,West,3,870.46,0.1,2350.24,1225.44
+ORD00329,2024-04-05,C0037,Jamie Garcia,File Folder,Office Supplies,Central,7,4.11,0,28.77,22.19
+ORD00330,2023-05-30,C0012,Jamie Rodriguez,Monitor,Electronics,West,8,288.73,0,2309.84,1134.51
+ORD00331,2024-03-10,C0064,Jordan Brown,Desk,Furniture,South,7,256.42,0.15,1525.7,991.28
+ORD00332,2024-03-18,C0093,Jordan Brown,Pen,Office Supplies,West,2,2.03,0.15,3.45,2.53
+ORD00333,2023-04-11,C0119,Drew Jones,Shoes,Clothing,North,4,89.96,0.1,323.86,209.99
+ORD00334,2023-08-19,C0038,Skyler Smith,Headphones,Electronics,East,5,87.45,0.15,371.66,230.32
+ORD00335,2024-08-15,C0137,Casey Garcia,Paper Ream,Office Supplies,North,2,10.47,0.1,18.85,13.07
+ORD00336,2024-11-17,C0009,Morgan Johnson,Tennis Racket,Sports,Central,8,87.78,0.05,667.13,435.26
+ORD00337,2024-09-11,C0110,Alex Jones,Yoga Mat,Sports,East,3,26.05,0,78.15,54.89
+ORD00338,2024-01-19,C0112,Blair Davis,File Folder,Office Supplies,West,2,4.04,0,8.08,6.12
+ORD00339,2024-10-09,C0104,Jamie Jones,Dumbbells,Sports,Central,9,60.65,0.05,518.56,395.17
+ORD00340,2023-01-21,C0036,Morgan Davis,Paper Ream,Office Supplies,South,5,10.29,0.1,46.3,31.49
+ORD00341,2024-11-14,C0026,Casey Johnson,Dumbbells,Sports,West,5,57.88,0,289.4,221.16
+ORD00342,2023-10-24,C0127,Morgan Williams,Dumbbells,Sports,East,7,57.3,0,401.1,300.66
+ORD00343,2023-12-12,C0034,Skyler Johnson,Bookshelf,Furniture,North,6,180.5,0,1083.0,751.27
+ORD00344,2023-10-26,C0121,Alex Johnson,Chair,Furniture,North,10,123.71,0,1237.1,863.41
+ORD00345,2024-12-18,C0017,Alex Johnson,Sofa,Furniture,North,3,887.45,0.05,2529.23,1344.24
+ORD00346,2023-04-14,C0084,Cameron Garcia,Running Shoes,Sports,East,6,114.11,0,684.66,467.4
+ORD00347,2024-10-03,C0024,Alex Rodriguez,Running Shoes,Sports,East,3,117.93,0,353.79,239.53
+ORD00348,2023-01-06,C0065,Taylor Rodriguez,Dumbbells,Sports,West,8,61.95,0,495.6,383.74
+ORD00349,2023-05-10,C0135,Cameron Davis,Tablet,Electronics,North,7,447.93,0,3135.51,1863.22
+ORD00350,2024-04-30,C0097,Cameron Martinez,Bookshelf,Furniture,Central,10,188.4,0.05,1789.8,1213.7
+ORD00351,2023-05-19,C0007,Taylor Brown,Dress,Clothing,Central,10,79.78,0,797.8,562.23
+ORD00352,2023-09-04,C0120,Skyler Jones,Jeans,Clothing,West,5,58.11,0.05,276.02,176.61
+ORD00353,2023-10-01,C0147,Skyler Martinez,Jacket,Clothing,West,8,125.5,0.05,953.8,650.41
+ORD00354,2024-03-24,C0085,Alex Williams,Table,Furniture,Central,5,417.23,0,2086.15,1380.91
+ORD00355,2023-09-30,C0102,Jordan Garcia,Laptop,Electronics,North,3,1196.21,0,3588.63,1265.84
+ORD00356,2024-02-23,C0087,Cameron Williams,Chair,Furniture,Central,3,123.88,0.05,353.06,233.1
+ORD00357,2024-06-02,C0118,Taylor Miller,Laptop,Electronics,East,1,1238.39,0,1238.39,471.9
+ORD00358,2024-12-04,C0042,Alex Miller,Monitor,Electronics,Central,3,304.19,0.1,821.31,410.31
+ORD00359,2023-01-01,C0079,Morgan Martinez,T-Shirt,Clothing,East,2,20.1,0,40.2,30.95
+ORD00360,2023-09-26,C0061,Drew Williams,Paper Ream,Office Supplies,East,9,9.65,0.05,82.51,56.03
+ORD00361,2023-06-30,C0070,Blair Jones,Tablet,Electronics,North,5,443.54,0,2217.7,1277.45
+ORD00362,2023-08-29,C0092,Alex Rodriguez,Paper Ream,Office Supplies,Central,3,9.77,0.05,27.84,19.54
+ORD00363,2023-11-20,C0059,Alex Smith,Pen,Office Supplies,East,5,2.04,0,10.2,7.79
+ORD00364,2024-04-26,C0053,Drew Jones,Laptop,Electronics,West,4,1156.67,0.05,4395.35,1483.63
+ORD00365,2023-03-15,C0087,Drew Garcia,Pen,Office Supplies,East,3,1.96,0,5.88,4.41
+ORD00366,2024-09-21,C0006,Morgan Martinez,Basketball,Sports,North,1,30.8,0.05,29.26,19.68
+ORD00367,2023-01-24,C0100,Cameron Garcia,Notebook,Office Supplies,South,3,5.71,0.15,14.56,8.63
+ORD00368,2023-01-01,C0089,Blair Garcia,Yoga Mat,Sports,South,6,24.87,0.05,141.76,93.77
+ORD00369,2024-07-13,C0047,Morgan Smith,Sofa,Furniture,West,4,884.17,0.15,3006.18,1562.14
+ORD00370,2024-02-05,C0058,Morgan Johnson,Monitor,Electronics,Central,5,295.7,0.1,1330.65,589.62
+ORD00371,2024-09-20,C0010,Drew Johnson,T-Shirt,Clothing,South,2,20.46,0,40.92,31.25
+ORD00372,2024-04-08,C0081,Taylor Martinez,Chair,Furniture,West,1,121.91,0.1,109.72,71.3
+ORD00373,2023-08-11,C0121,Blair Jones,Paper Ream,Office Supplies,East,5,9.58,0,47.9,32.91
+ORD00374,2024-12-22,C0007,Morgan Jones,Stapler,Office Supplies,West,4,8.34,0.05,31.69,24.35
+ORD00375,2023-04-21,C0007,Jordan Rodriguez,Tablet,Electronics,North,10,436.69,0,4366.9,2398.16
+ORD00376,2023-05-07,C0072,Blair Smith,Headphones,Electronics,South,1,92.56,0.05,87.93,58.61
+ORD00377,2023-06-08,C0010,Taylor Martinez,Pen,Office Supplies,North,8,2.05,0,16.4,12.61
+ORD00378,2023-05-29,C0037,Casey Garcia,Jacket,Clothing,South,5,120.48,0,602.4,414.15
+ORD00379,2023-05-24,C0092,Taylor Garcia,Yoga Mat,Sports,North,4,24.34,0.15,82.76,52.24
+ORD00380,2023-03-09,C0103,Casey Brown,Stapler,Office Supplies,Central,1,8.2,0.05,7.79,5.83
+ORD00381,2023-11-18,C0078,Jordan Rodriguez,Notebook,Office Supplies,Central,10,5.73,0,57.3,39.12
+ORD00382,2024-03-27,C0088,Jamie Williams,Sofa,Furniture,North,7,901.44,0,6310.08,3550.38
+ORD00383,2024-07-05,C0070,Blair Davis,Headphones,Electronics,North,5,87.13,0.1,392.08,251.11
+ORD00384,2024-11-13,C0081,Jamie Johnson,Desk,Furniture,Central,3,243.02,0,729.06,509.25
+ORD00385,2023-06-06,C0129,Morgan Johnson,Jeans,Clothing,Central,7,60.84,0,425.88,295.09
+ORD00386,2023-11-28,C0088,Casey Davis,Monitor,Electronics,South,5,293.72,0,1468.6,740.25
+ORD00387,2023-08-26,C0126,Drew Martinez,Dress,Clothing,North,5,76.27,0.05,362.28,245.55
+ORD00388,2024-02-15,C0077,Casey Martinez,Jacket,Clothing,West,2,125.46,0.1,225.83,153.01
+ORD00389,2023-01-05,C0052,Jordan Garcia,Desk,Furniture,Central,9,258.36,0.15,1976.45,1304.26
+ORD00390,2024-01-31,C0113,Jamie Williams,Jeans,Clothing,South,8,61.84,0,494.72,348.48
+ORD00391,2023-06-05,C0037,Skyler Martinez,Paper Ream,Office Supplies,East,4,10.01,0,40.04,29.1
+ORD00392,2024-07-25,C0067,Skyler Rodriguez,File Folder,Office Supplies,East,8,3.97,0.15,27.0,19.31
+ORD00393,2023-11-10,C0138,Alex Jones,Jeans,Clothing,North,10,58.56,0,585.6,385.66
+ORD00394,2023-03-31,C0045,Skyler Jones,Basketball,Sports,West,3,29.67,0.15,75.66,46.26
+ORD00395,2024-07-03,C0148,Jamie Brown,Monitor,Electronics,South,10,294.69,0.05,2799.55,1442.54
+ORD00396,2024-01-15,C0106,Cameron Jones,Dress,Clothing,North,7,80.1,0,560.7,395.95
+ORD00397,2023-12-04,C0127,Taylor Williams,Pen,Office Supplies,North,8,1.94,0.1,13.97,10.26
+ORD00398,2024-03-27,C0069,Jamie Miller,Chair,Furniture,North,10,125.46,0,1254.6,857.76
+ORD00399,2023-11-11,C0049,Blair Martinez,Laptop,Electronics,East,6,1190.45,0,7142.7,2374.48
+ORD00400,2024-01-29,C0116,Taylor Williams,Dress,Clothing,South,6,83.22,0,499.32,361.99
+ORD00401,2024-10-10,C0078,Jamie Rodriguez,Smartphone,Electronics,West,8,706.15,0.15,4801.82,1614.44
+ORD00402,2023-08-15,C0133,Alex Brown,Paper Ream,Office Supplies,South,5,10.11,0.1,45.49,31.56
+ORD00403,2024-04-17,C0074,Blair Rodriguez,Desk,Furniture,South,8,241.75,0.15,1643.9,1041.43
+ORD00404,2024-09-03,C0051,Skyler Garcia,Table,Furniture,North,9,406.97,0.15,3113.32,1810.65
+ORD00405,2024-06-08,C0005,Jordan Smith,Basketball,Sports,North,5,29.72,0.15,126.31,81.02
+ORD00406,2024-09-18,C0150,Skyler Davis,Basketball,Sports,East,8,30.28,0.05,230.13,152.77
+ORD00407,2024-07-24,C0145,Alex Martinez,Monitor,Electronics,East,6,295.99,0,1775.94,962.27
+ORD00408,2024-10-08,C0070,Jordan Rodriguez,Bookshelf,Furniture,North,8,172.75,0,1382.0,947.6
+ORD00409,2024-04-22,C0115,Alex Williams,Sofa,Furniture,West,9,872.22,0,7849.98,4586.51
+ORD00410,2024-11-24,C0144,Taylor Garcia,Headphones,Electronics,West,3,88.2,0.15,224.91,138.93
+ORD00411,2023-06-08,C0111,Skyler Jones,Monitor,Electronics,North,8,293.27,0.1,2111.54,1008.86
+ORD00412,2023-10-12,C0104,Alex Rodriguez,Jeans,Clothing,West,9,59.32,0,533.88,356.28
+ORD00413,2023-12-17,C0063,Jamie Johnson,File Folder,Office Supplies,Central,2,3.97,0,7.94,6.05
+ORD00414,2024-01-16,C0128,Cameron Garcia,Notebook,Office Supplies,Central,8,5.79,0.05,44.0,28.3
+ORD00415,2024-12-14,C0034,Morgan Smith,Jeans,Clothing,Central,2,57.21,0,114.42,78.11
+ORD00416,2023-04-21,C0042,Taylor Johnson,T-Shirt,Clothing,East,5,19.66,0,98.3,73.61
+ORD00417,2024-11-25,C0082,Skyler Johnson,Running Shoes,Sports,East,5,124.42,0,622.1,428.45
+ORD00418,2023-07-20,C0121,Skyler Davis,Headphones,Electronics,West,6,87.25,0.1,471.15,293.21
+ORD00419,2024-05-28,C0146,Jordan Johnson,Tablet,Electronics,Central,3,438.7,0,1316.1,737.61
+ORD00420,2024-09-07,C0005,Blair Martinez,Smartphone,Electronics,East,4,729.22,0,2916.88,1352.35
+ORD00421,2024-07-23,C0123,Alex Smith,Headphones,Electronics,South,8,93.58,0.05,711.21,491.32
+ORD00422,2023-11-12,C0126,Skyler Williams,Desk,Furniture,North,3,247.3,0,741.9,520.42
+ORD00423,2023-10-31,C0123,Casey Garcia,Headphones,Electronics,North,10,94.21,0.15,800.78,515.3
+ORD00424,2024-12-02,C0075,Skyler Williams,Notebook,Office Supplies,West,10,5.94,0.1,53.46,34.93
+ORD00425,2023-09-05,C0106,Alex Johnson,Sofa,Furniture,Central,5,863.51,0.15,3669.92,1716.06
+ORD00426,2023-11-30,C0144,Drew Martinez,Jacket,Clothing,South,8,123.37,0,986.96,673.62
+ORD00427,2023-08-18,C0021,Casey Johnson,Desk,Furniture,Central,4,251.22,0,1004.88,705.68
+ORD00428,2023-07-05,C0147,Casey Garcia,Bookshelf,Furniture,West,10,178.35,0.1,1605.15,1026.11
+ORD00429,2023-03-21,C0108,Drew Smith,Table,Furniture,West,10,419.44,0,4194.4,2788.3
+ORD00430,2024-12-17,C0092,Jordan Rodriguez,Desk,Furniture,South,10,257.92,0,2579.2,1844.61
+ORD00431,2023-11-22,C0037,Taylor Brown,Stapler,Office Supplies,South,10,8.24,0,82.4,62.58
+ORD00432,2023-01-22,C0101,Casey Miller,Bookshelf,Furniture,West,1,176.98,0,176.98,117.85
+ORD00433,2024-12-08,C0081,Taylor Davis,Smartphone,Electronics,West,10,701.81,0.05,6667.19,2776.16
+ORD00434,2023-11-23,C0109,Jordan Rodriguez,Running Shoes,Sports,Central,9,115.99,0.05,991.71,661.08
+ORD00435,2024-03-17,C0031,Jamie Martinez,File Folder,Office Supplies,South,6,3.86,0,23.16,17.24
+ORD00436,2023-03-13,C0054,Jordan Smith,Dumbbells,Sports,East,8,58.58,0.05,445.21,326.05
+ORD00437,2024-09-10,C0051,Jordan Williams,Jeans,Clothing,South,7,61.85,0.1,389.65,259.06
+ORD00438,2024-05-25,C0037,Taylor Garcia,Basketball,Sports,South,6,29.53,0,177.18,119.88
+ORD00439,2023-03-05,C0098,Blair Rodriguez,Basketball,Sports,West,6,31.17,0.1,168.32,111.93
+ORD00440,2024-05-14,C0123,Jamie Johnson,Pen,Office Supplies,North,1,1.93,0.05,1.83,1.36
+ORD00441,2024-11-10,C0058,Drew Rodriguez,Sofa,Furniture,Central,1,914.17,0,914.17,538.75
+ORD00442,2023-02-15,C0078,Jamie Jones,Running Shoes,Sports,Central,8,117.47,0,939.76,647.48
+ORD00443,2024-05-01,C0093,Drew Martinez,Laptop,Electronics,East,10,1198.83,0.1,10789.47,3026.71
+ORD00444,2024-01-10,C0027,Cameron Rodriguez,T-Shirt,Clothing,North,9,19.02,0.05,162.62,118.75
+ORD00445,2023-10-22,C0043,Morgan Martinez,Shoes,Clothing,North,1,92.54,0.1,83.29,55.87
+ORD00446,2024-06-08,C0133,Cameron Johnson,Stapler,Office Supplies,West,7,7.9,0.15,47.01,33.99
+ORD00447,2024-06-08,C0010,Blair Rodriguez,Table,Furniture,Central,9,410.81,0,3697.29,2392.91
+ORD00448,2023-02-23,C0008,Blair Martinez,Laptop,Electronics,South,10,1224.72,0.1,11022.48,3810.33
+ORD00449,2023-10-08,C0081,Alex Garcia,Headphones,Electronics,East,5,92.51,0.15,393.17,254.3
+ORD00450,2024-01-05,C0009,Blair Smith,Table,Furniture,North,3,380.57,0.15,970.45,556.66
+ORD00451,2024-05-17,C0035,Alex Jones,Running Shoes,Sports,North,2,121.7,0.05,231.23,151.62
+ORD00452,2024-12-02,C0051,Skyler Garcia,Running Shoes,Sports,North,7,114.9,0.05,764.09,493.71
+ORD00453,2023-05-12,C0003,Alex Brown,Smartphone,Electronics,South,7,695.51,0.15,4138.28,1574.16
+ORD00454,2023-02-21,C0069,Blair Jones,Desk,Furniture,North,3,239.73,0,719.19,494.37
+ORD00455,2024-07-24,C0031,Drew Garcia,Table,Furniture,Central,1,393.66,0,393.66,255.57
+ORD00456,2024-12-25,C0121,Skyler Rodriguez,Dumbbells,Sports,Central,1,58.46,0,58.46,44.56
+ORD00457,2023-05-21,C0098,Casey Rodriguez,Pen,Office Supplies,East,9,1.92,0.05,16.42,12.02
+ORD00458,2023-12-31,C0150,Jordan Brown,File Folder,Office Supplies,East,3,3.95,0.15,10.07,7.23
+ORD00459,2024-12-16,C0144,Blair Rodriguez,Jacket,Clothing,Central,5,124.59,0.05,591.8,401.91
+ORD00460,2024-10-10,C0053,Skyler Williams,Yoga Mat,Sports,Central,10,23.93,0.05,227.34,151.21
+ORD00461,2024-01-09,C0072,Drew Jones,Shoes,Clothing,East,5,90.23,0,451.15,313.15
+ORD00462,2023-04-29,C0052,Drew Williams,Yoga Mat,Sports,East,8,23.92,0,191.36,132.68
+ORD00463,2023-06-19,C0111,Cameron Williams,Laptop,Electronics,East,6,1241.49,0,7448.94,2979.65
+ORD00464,2024-10-19,C0145,Taylor Davis,Smartphone,Electronics,Central,2,679.06,0,1358.12,587.84
+ORD00465,2023-12-20,C0007,Drew Johnson,Desk,Furniture,East,8,238.83,0,1910.64,1280.68
+ORD00466,2023-06-10,C0140,Casey Rodriguez,Chair,Furniture,West,5,120.04,0,600.2,413.54
+ORD00467,2023-07-30,C0071,Morgan Johnson,Tennis Racket,Sports,North,3,88.09,0,264.27,179.96
+ORD00468,2023-03-18,C0078,Taylor Davis,Bookshelf,Furniture,West,5,187.27,0.05,889.53,617.26
+ORD00469,2024-03-13,C0141,Casey Martinez,Paper Ream,Office Supplies,South,4,9.67,0,38.68,26.81
+ORD00470,2023-04-13,C0015,Blair Johnson,Jacket,Clothing,East,6,115.09,0.05,656.01,439.08
+ORD00471,2023-08-07,C0006,Morgan Miller,Tablet,Electronics,North,8,451.1,0.15,3067.48,1516.62
+ORD00472,2023-10-05,C0109,Alex Johnson,Jeans,Clothing,East,7,57.77,0,404.39,268.04
+ORD00473,2023-05-21,C0144,Cameron Brown,Laptop,Electronics,Central,7,1240.8,0.05,8251.32,3200.05
+ORD00474,2023-07-03,C0094,Jamie Martinez,Basketball,Sports,Central,6,31.0,0,186.0,126.88
+ORD00475,2024-09-29,C0049,Morgan Smith,Tennis Racket,Sports,Central,7,86.36,0.1,544.07,346.58
+ORD00476,2024-01-11,C0037,Cameron Miller,Running Shoes,Sports,East,1,119.48,0.05,113.51,73.65
+ORD00477,2024-12-30,C0061,Jordan Williams,File Folder,Office Supplies,North,3,4.1,0.15,10.45,7.58
+ORD00478,2023-03-27,C0122,Skyler Davis,Yoga Mat,Sports,North,4,26.19,0,104.76,74.87
+ORD00479,2023-05-11,C0042,Jordan Miller,Smartphone,Electronics,West,5,731.96,0,3659.8,1687.58
+ORD00480,2023-07-13,C0147,Morgan Miller,Desk,Furniture,South,8,259.74,0,2077.92,1481.88
+ORD00481,2024-12-30,C0073,Skyler Martinez,Basketball,Sports,South,9,28.75,0.1,232.88,149.86
+ORD00482,2024-02-22,C0014,Skyler Williams,Paper Ream,Office Supplies,West,6,10.32,0,61.92,44.11
+ORD00483,2023-05-07,C0019,Casey Miller,Laptop,Electronics,West,1,1169.53,0,1169.53,408.61
+ORD00484,2023-08-16,C0076,Jamie Johnson,Dumbbells,Sports,South,4,61.16,0,244.64,185.43
+ORD00485,2024-08-15,C0095,Jamie Williams,Pen,Office Supplies,East,9,2.05,0,18.45,14.1
+ORD00486,2024-12-07,C0146,Casey Davis,Monitor,Electronics,North,2,291.92,0,583.84,303.65
+ORD00487,2024-08-20,C0053,Taylor Jones,Monitor,Electronics,South,6,313.26,0.1,1691.6,845.27
+ORD00488,2024-10-02,C0124,Blair Garcia,Paper Ream,Office Supplies,West,7,9.74,0.05,64.77,45.58
+ORD00489,2024-01-03,C0092,Morgan Rodriguez,Desk,Furniture,North,10,259.54,0.15,2206.09,1477.63
+ORD00490,2024-05-30,C0082,Alex Garcia,Paper Ream,Office Supplies,West,6,9.91,0.05,56.49,39.36
+ORD00491,2023-09-03,C0109,Morgan Martinez,Running Shoes,Sports,Central,1,114.91,0,114.91,74.96
+ORD00492,2023-06-06,C0053,Alex Jones,Chair,Furniture,East,7,119.63,0.15,711.8,435.12
+ORD00493,2023-10-11,C0099,Jamie Miller,Dress,Clothing,South,5,83.92,0.1,377.64,258.53
+ORD00494,2023-09-03,C0066,Cameron Rodriguez,Laptop,Electronics,South,2,1176.16,0,2352.32,829.38
+ORD00495,2024-10-30,C0121,Morgan Rodriguez,T-Shirt,Clothing,Central,6,20.94,0.05,119.36,90.44
+ORD00496,2024-08-02,C0146,Blair Jones,Paper Ream,Office Supplies,South,8,9.88,0,79.04,55.85
+ORD00497,2023-03-31,C0077,Jamie Brown,Jeans,Clothing,North,4,60.12,0.1,216.43,138.12
+ORD00498,2024-06-17,C0085,Casey Johnson,Laptop,Electronics,North,6,1187.9,0.05,6771.03,2044.25
+ORD00499,2023-02-12,C0108,Casey Williams,Dress,Clothing,North,7,80.85,0.15,481.06,314.4
+ORD00500,2024-05-29,C0128,Alex Davis,Desk,Furniture,East,1,240.23,0.1,216.21,136.48
+ORD00501,2024-03-01,C0021,Taylor Martinez,Dumbbells,Sports,South,1,57.58,0.05,54.7,40.46
+ORD00502,2023-02-15,C0138,Morgan Davis,Sofa,Furniture,Central,6,922.85,0,5537.1,3152.14
+ORD00503,2023-11-02,C0121,Cameron Miller,Basketball,Sports,West,3,30.73,0.05,87.58,60.17
+ORD00504,2023-06-06,C0031,Blair Rodriguez,File Folder,Office Supplies,South,10,3.92,0.15,33.32,23.55
+ORD00505,2024-02-15,C0112,Blair Miller,Table,Furniture,East,7,415.5,0,2908.5,1882.25
+ORD00506,2023-02-01,C0140,Jamie Miller,Smartphone,Electronics,North,10,670.64,0.15,5700.44,1922.96
+ORD00507,2023-06-03,C0089,Blair Martinez,Notebook,Office Supplies,Central,9,5.96,0.15,45.59,28.22
+ORD00508,2024-02-06,C0072,Blair Brown,Bookshelf,Furniture,East,5,181.08,0,905.4,612.16
+ORD00509,2024-05-16,C0041,Alex Miller,Desk,Furniture,North,6,248.06,0.15,1265.11,827.0
+ORD00510,2024-07-06,C0019,Jamie Brown,Headphones,Electronics,North,1,92.61,0,92.61,62.72
+ORD00511,2023-05-07,C0038,Casey Miller,Laptop,Electronics,East,8,1231.98,0.15,8377.46,2241.17
+ORD00512,2024-04-18,C0124,Jamie Johnson,Bookshelf,Furniture,North,10,182.43,0.15,1550.66,972.76
+ORD00513,2023-06-08,C0083,Morgan Johnson,Sofa,Furniture,Central,4,885.89,0,3543.56,2041.55
+ORD00514,2024-10-22,C0135,Jordan Williams,Yoga Mat,Sports,Central,5,24.23,0,121.15,84.81
+ORD00515,2024-10-08,C0002,Jamie Miller,Sofa,Furniture,East,1,868.71,0.15,738.4,376.38
+ORD00516,2023-12-19,C0055,Blair Smith,Table,Furniture,West,2,393.96,0,787.92,497.32
+ORD00517,2023-03-23,C0138,Morgan Jones,T-Shirt,Clothing,Central,6,20.87,0,125.22,97.65
+ORD00518,2023-05-17,C0117,Drew Johnson,Bookshelf,Furniture,North,6,188.98,0,1133.88,802.13
+ORD00519,2024-11-04,C0066,Morgan Martinez,Pen,Office Supplies,North,1,1.97,0,1.97,1.5
+ORD00520,2024-03-12,C0132,Blair Brown,Paper Ream,Office Supplies,East,5,9.55,0,47.75,33.72
+ORD00521,2024-04-19,C0054,Morgan Davis,Table,Furniture,Central,2,401.32,0,802.64,507.3
+ORD00522,2023-06-10,C0064,Jordan Smith,Tennis Racket,Sports,Central,10,87.58,0,875.8,577.62
+ORD00523,2023-10-25,C0095,Blair Miller,Table,Furniture,North,9,407.53,0.15,3117.6,1870.44
+ORD00524,2024-01-06,C0150,Cameron Martinez,Headphones,Electronics,South,7,92.64,0.05,616.06,417.89
+ORD00525,2024-07-30,C0026,Blair Rodriguez,Pen,Office Supplies,South,8,2.08,0,16.64,13.01
+ORD00526,2023-10-10,C0115,Morgan Davis,Table,Furniture,North,1,417.0,0,417.0,270.5
+ORD00527,2023-03-03,C0076,Blair Brown,Yoga Mat,Sports,South,1,25.43,0.05,24.16,16.92
+ORD00528,2024-10-16,C0039,Cameron Brown,File Folder,Office Supplies,East,10,4.01,0.1,36.09,26.25
+ORD00529,2024-09-11,C0117,Taylor Martinez,Stapler,Office Supplies,Central,8,7.97,0,63.76,48.87
+ORD00530,2024-12-18,C0079,Blair Martinez,Smartphone,Electronics,South,10,697.75,0.1,6279.75,2587.74
+ORD00531,2023-03-29,C0063,Skyler Smith,Monitor,Electronics,East,9,297.73,0,2679.57,1408.61
+ORD00532,2024-03-03,C0078,Casey Smith,Bookshelf,Furniture,North,3,174.93,0,524.79,358.07
+ORD00533,2024-05-01,C0085,Blair Johnson,Tablet,Electronics,East,10,452.94,0,4529.4,2668.21
+ORD00534,2024-08-09,C0040,Morgan Miller,Notebook,Office Supplies,Central,5,6.25,0.05,29.69,20.13
+ORD00535,2024-03-12,C0102,Skyler Jones,Monitor,Electronics,East,6,294.14,0.1,1588.36,774.62
+ORD00536,2024-11-30,C0123,Drew Jones,Chair,Furniture,East,1,122.66,0.1,110.39,70.59
+ORD00537,2024-04-13,C0072,Blair Martinez,Stapler,Office Supplies,East,9,8.34,0.15,63.8,46.68
+ORD00538,2024-08-10,C0048,Casey Rodriguez,Sofa,Furniture,Central,4,941.3,0,3765.2,2234.86
+ORD00539,2023-01-29,C0073,Casey Garcia,Basketball,Sports,East,9,30.09,0,270.81,188.24
+ORD00540,2024-06-28,C0077,Skyler Williams,Basketball,Sports,Central,8,28.66,0.15,194.89,116.58
+ORD00541,2024-03-01,C0132,Skyler Brown,Bookshelf,Furniture,Central,3,175.87,0,527.61,360.67
+ORD00542,2024-06-03,C0072,Jamie Martinez,Smartphone,Electronics,North,6,720.22,0,4321.32,2148.87
+ORD00543,2023-09-14,C0005,Morgan Rodriguez,Jeans,Clothing,South,6,61.66,0.05,351.46,243.0
+ORD00544,2024-11-08,C0059,Skyler Williams,Pen,Office Supplies,South,8,1.98,0,15.84,12.22
+ORD00545,2024-07-26,C0092,Drew Davis,Notebook,Office Supplies,West,8,6.1,0.15,41.48,26.97
+ORD00546,2023-09-27,C0142,Morgan Davis,Tablet,Electronics,East,5,453.8,0,2269.0,1281.05
+ORD00547,2024-12-15,C0091,Jordan Smith,Dress,Clothing,Central,1,81.72,0.1,73.55,48.77
+ORD00548,2023-01-05,C0002,Skyler Rodriguez,File Folder,Office Supplies,South,7,4.14,0,28.98,22.62
+ORD00549,2024-08-12,C0121,Taylor Martinez,Smartphone,Electronics,East,9,675.45,0,6079.05,2733.57
+ORD00550,2023-07-24,C0098,Morgan Miller,Headphones,Electronics,Central,3,87.62,0,262.86,179.29
+ORD00551,2023-02-02,C0119,Casey Davis,Notebook,Office Supplies,East,3,5.75,0,17.25,11.36
+ORD00552,2023-09-19,C0076,Skyler Williams,Dress,Clothing,East,1,80.12,0,80.12,56.97
+ORD00553,2024-09-21,C0019,Drew Williams,File Folder,Office Supplies,North,6,3.87,0.05,22.06,16.35
+ORD00554,2023-05-14,C0017,Casey Miller,Running Shoes,Sports,North,6,120.73,0.15,615.72,386.68
+ORD00555,2023-10-18,C0139,Taylor Johnson,Jacket,Clothing,North,6,124.38,0,746.28,514.71
+ORD00556,2023-07-31,C0081,Skyler Brown,Table,Furniture,North,6,397.98,0,2387.88,1573.27
+ORD00557,2024-10-10,C0001,Jordan Smith,Basketball,Sports,East,10,28.58,0,285.8,186.42
+ORD00558,2023-02-20,C0147,Jamie Davis,Shoes,Clothing,East,4,91.75,0.05,348.65,235.75
+ORD00559,2023-08-26,C0057,Drew Smith,Laptop,Electronics,South,8,1220.74,0.15,8301.03,2032.0
+ORD00560,2024-11-27,C0003,Alex Johnson,Paper Ream,Office Supplies,West,4,9.6,0.15,32.64,21.43
+ORD00561,2023-07-19,C0024,Skyler Johnson,Tablet,Electronics,South,5,443.48,0,2217.4,1223.19
+ORD00562,2023-04-23,C0028,Blair Brown,Running Shoes,Sports,Central,9,114.95,0.05,982.82,640.75
+ORD00563,2024-07-22,C0060,Jordan Martinez,Monitor,Electronics,Central,5,303.45,0,1517.25,810.32
+ORD00564,2023-09-03,C0063,Cameron Johnson,T-Shirt,Clothing,North,8,19.92,0.15,135.46,95.68
+ORD00565,2023-02-24,C0147,Blair Martinez,Stapler,Office Supplies,West,6,8.0,0,48.0,36.47
+ORD00566,2023-06-26,C0145,Skyler Johnson,Yoga Mat,Sports,South,10,25.27,0.1,227.43,149.7
+ORD00567,2023-12-30,C0139,Casey Miller,Desk,Furniture,Central,7,244.68,0,1712.76,1188.09
+ORD00568,2024-11-08,C0006,Skyler Williams,Tennis Racket,Sports,West,8,86.17,0,689.36,453.85
+ORD00569,2023-12-10,C0115,Cameron Davis,Tablet,Electronics,North,2,454.41,0,908.82,531.47
+ORD00570,2023-04-15,C0060,Taylor Williams,Pen,Office Supplies,Central,5,2.01,0,10.05,7.7
+ORD00571,2024-02-10,C0097,Jamie Davis,Paper Ream,Office Supplies,West,3,9.69,0.05,27.62,19.29
+ORD00572,2023-05-27,C0020,Jordan Williams,Desk,Furniture,Central,1,238.46,0.1,214.61,135.73
+ORD00573,2024-10-01,C0023,Cameron Jones,Jeans,Clothing,Central,5,62.34,0.15,264.95,173.48
+ORD00574,2023-09-18,C0085,Taylor Williams,Chair,Furniture,North,6,115.49,0,692.94,470.56
+ORD00575,2024-02-21,C0125,Drew Miller,Tablet,Electronics,North,7,464.21,0.1,2924.52,1603.89
+ORD00576,2023-06-15,C0055,Jordan Miller,Jacket,Clothing,Central,7,125.48,0.15,746.61,491.12
+ORD00577,2024-10-07,C0027,Drew Martinez,Smartphone,Electronics,East,5,671.45,0.15,2853.66,990.31
+ORD00578,2023-09-07,C0011,Blair Williams,Running Shoes,Sports,North,8,118.06,0,944.48,624.65
+ORD00579,2024-11-09,C0076,Jamie Brown,Bookshelf,Furniture,South,5,173.63,0.05,824.74,552.5
+ORD00580,2024-04-03,C0094,Casey Miller,Desk,Furniture,South,1,244.55,0.05,232.32,160.25
+ORD00581,2024-08-30,C0104,Jordan Garcia,Shoes,Clothing,West,7,90.91,0.15,540.91,351.68
+ORD00582,2023-05-31,C0104,Jamie Martinez,Stapler,Office Supplies,Central,10,8.17,0,81.7,63.44
+ORD00583,2024-03-14,C0008,Jamie Johnson,Bookshelf,Furniture,South,2,174.23,0.1,313.61,202.18
+ORD00584,2023-02-01,C0056,Alex Rodriguez,Tennis Racket,Sports,Central,7,85.99,0.05,571.83,378.57
+ORD00585,2024-11-10,C0090,Drew Garcia,Laptop,Electronics,Central,2,1185.04,0,2370.08,853.38
+ORD00586,2023-12-10,C0086,Jamie Johnson,Smartphone,Electronics,East,10,730.04,0.1,6570.36,2842.34
+ORD00587,2023-04-16,C0119,Cameron Rodriguez,Headphones,Electronics,West,1,91.87,0.15,78.09,49.47
+ORD00588,2024-01-15,C0083,Morgan Smith,Dumbbells,Sports,East,8,57.94,0,463.52,343.69
+ORD00589,2023-08-19,C0021,Jordan Davis,Headphones,Electronics,North,6,93.83,0.05,534.83,364.2
+ORD00590,2023-08-02,C0086,Casey Garcia,Dumbbells,Sports,North,9,62.07,0.1,502.77,379.56
+ORD00591,2024-11-16,C0064,Blair Brown,Tennis Racket,Sports,North,6,93.91,0.05,535.29,360.67
+ORD00592,2023-10-21,C0119,Drew Johnson,File Folder,Office Supplies,North,8,4.17,0.15,28.36,21.14
+ORD00593,2023-09-14,C0128,Morgan Smith,Running Shoes,Sports,Central,2,122.03,0.15,207.45,135.32
+ORD00594,2024-10-23,C0137,Taylor Smith,Headphones,Electronics,West,3,86.21,0,258.63,172.01
+ORD00595,2023-12-21,C0049,Casey Smith,Headphones,Electronics,North,5,89.05,0,445.25,303.82
+ORD00596,2023-06-10,C0092,Cameron Jones,Shoes,Clothing,West,5,89.53,0,447.65,312.29
+ORD00597,2023-09-30,C0056,Skyler Johnson,Desk,Furniture,North,6,247.5,0,1485.0,1034.55
+ORD00598,2024-11-04,C0129,Cameron Jones,Headphones,Electronics,East,10,86.11,0.05,818.04,533.81
+ORD00599,2024-07-01,C0124,Drew Garcia,Dress,Clothing,Central,4,83.97,0,335.88,238.23
+ORD00600,2024-09-17,C0144,Cameron Martinez,Chair,Furniture,Central,2,116.29,0.15,197.69,123.94
+ORD00601,2023-10-13,C0093,Jamie Williams,T-Shirt,Clothing,West,7,19.28,0.05,128.21,95.05
+ORD00602,2023-08-07,C0108,Blair Rodriguez,Jacket,Clothing,North,10,117.17,0,1171.7,778.28
+ORD00603,2024-01-14,C0145,Taylor Rodriguez,Monitor,Electronics,East,6,297.38,0.15,1516.64,624.95
+ORD00604,2023-01-05,C0091,Cameron Jones,Shoes,Clothing,West,1,88.74,0,88.74,60.79
+ORD00605,2023-01-02,C0063,Taylor Brown,Table,Furniture,South,8,394.64,0,3157.12,1973.27
+ORD00606,2023-04-16,C0123,Skyler Garcia,Yoga Mat,Sports,North,10,25.73,0,257.3,177.42
+ORD00607,2023-09-18,C0115,Skyler Davis,Bookshelf,Furniture,Central,9,175.05,0.15,1339.13,831.32
+ORD00608,2024-10-05,C0016,Jamie Jones,Headphones,Electronics,North,7,89.31,0.15,531.39,332.26
+ORD00609,2024-05-04,C0114,Alex Davis,Pen,Office Supplies,North,3,2.05,0,6.15,4.78
+ORD00610,2023-11-17,C0062,Drew Smith,Jacket,Clothing,South,9,125.22,0,1126.98,783.7
+ORD00611,2024-07-22,C0115,Drew Miller,Jeans,Clothing,East,8,61.07,0,488.56,343.47
+ORD00612,2023-10-15,C0039,Jordan Smith,Desk,Furniture,Central,7,248.25,0.05,1650.86,1095.82
+ORD00613,2023-01-03,C0084,Blair Jones,Tennis Racket,Sports,West,9,89.19,0.1,722.44,459.25
+ORD00614,2024-07-12,C0036,Blair Garcia,Shoes,Clothing,Central,1,94.43,0,94.43,66.12
+ORD00615,2024-04-19,C0005,Casey Smith,Table,Furniture,Central,4,384.52,0.15,1307.37,758.66
+ORD00616,2024-04-09,C0112,Cameron Smith,Stapler,Office Supplies,East,4,8.14,0.05,30.93,23.45
+ORD00617,2024-11-22,C0150,Taylor Jones,Jacket,Clothing,North,9,121.51,0.15,929.55,569.82
+ORD00618,2023-12-20,C0145,Alex Martinez,Stapler,Office Supplies,South,4,7.85,0,31.4,24.1
+ORD00619,2023-05-21,C0102,Skyler Brown,Laptop,Electronics,West,1,1184.02,0.1,1065.62,299.55
+ORD00620,2024-10-16,C0118,Blair Williams,Laptop,Electronics,Central,7,1186.77,0.15,7061.28,1739.54
+ORD00621,2024-10-20,C0105,Jamie Jones,Laptop,Electronics,South,5,1144.11,0,5720.55,2100.41
+ORD00622,2024-08-04,C0057,Skyler Martinez,Jacket,Clothing,South,2,122.94,0,245.88,168.08
+ORD00623,2024-09-23,C0052,Cameron Garcia,Paper Ream,Office Supplies,South,10,10.46,0.05,99.37,71.79
+ORD00624,2023-07-29,C0136,Jamie Martinez,Tennis Racket,Sports,South,1,93.69,0.05,89.01,61.52
+ORD00625,2024-10-29,C0094,Blair Davis,Running Shoes,Sports,East,2,115.15,0,230.3,150.82
+ORD00626,2023-05-06,C0052,Jamie Rodriguez,Running Shoes,Sports,North,6,120.64,0.15,615.26,391.65
+ORD00627,2023-05-18,C0070,Alex Williams,Table,Furniture,East,5,395.6,0,1978.0,1266.62
+ORD00628,2024-05-27,C0142,Cameron Smith,Laptop,Electronics,South,9,1154.95,0,10394.55,3574.99
+ORD00629,2023-07-15,C0078,Casey Smith,Dress,Clothing,North,5,83.88,0,419.4,297.28
+ORD00630,2024-03-13,C0114,Morgan Brown,Chair,Furniture,East,4,123.32,0,493.28,341.8
+ORD00631,2023-03-24,C0133,Casey Jones,Dumbbells,Sports,North,10,59.66,0,596.6,451.71
+ORD00632,2023-09-30,C0112,Cameron Martinez,Headphones,Electronics,East,7,88.8,0.1,559.44,361.3
+ORD00633,2024-08-04,C0002,Jordan Smith,Table,Furniture,South,1,394.97,0,394.97,258.26
+ORD00634,2023-08-15,C0039,Drew Johnson,Jeans,Clothing,North,5,62.54,0,312.7,215.44
+ORD00635,2023-09-01,C0110,Jamie Brown,Notebook,Office Supplies,East,7,5.72,0,40.04,27.06
+ORD00636,2024-06-19,C0102,Casey Brown,Table,Furniture,East,7,393.58,0.05,2617.31,1601.58
+ORD00637,2024-08-01,C0083,Skyler Smith,Tablet,Electronics,South,10,449.67,0.1,4047.03,2066.22
+ORD00638,2024-12-09,C0104,Jordan Jones,Table,Furniture,East,6,417.04,0,2502.24,1680.76
+ORD00639,2023-02-04,C0116,Jamie Johnson,Smartphone,Electronics,East,4,678.56,0.1,2442.82,974.55
+ORD00640,2023-03-13,C0068,Skyler Jones,Tennis Racket,Sports,South,5,89.39,0,446.95,305.95
+ORD00641,2023-11-09,C0091,Drew Smith,Basketball,Sports,West,4,31.01,0,124.04,85.65
+ORD00642,2024-10-25,C0065,Jamie Miller,File Folder,Office Supplies,Central,7,4.12,0.15,24.51,17.89
+ORD00643,2024-07-13,C0142,Morgan Jones,Dress,Clothing,South,5,77.42,0,387.1,271.47
+ORD00644,2023-11-16,C0109,Cameron Miller,Pen,Office Supplies,Central,10,2.0,0.05,19.0,14.02
+ORD00645,2023-11-30,C0032,Casey Brown,Monitor,Electronics,East,1,288.56,0,288.56,147.32
+ORD00646,2024-09-20,C0134,Taylor Martinez,Monitor,Electronics,West,3,300.23,0,900.69,478.96
+ORD00647,2024-03-17,C0126,Alex Davis,Shoes,Clothing,East,2,93.16,0.1,167.69,112.28
+ORD00648,2023-10-29,C0036,Blair Davis,Notebook,Office Supplies,Central,9,6.16,0,55.44,38.25
+ORD00649,2023-07-23,C0059,Jordan Garcia,Table,Furniture,North,5,393.68,0.15,1673.14,968.36
+ORD00650,2023-06-21,C0118,Morgan Jones,Shoes,Clothing,East,2,86.42,0,172.84,118.63
+ORD00651,2023-12-12,C0008,Skyler Brown,Jeans,Clothing,South,1,60.53,0.05,57.5,38.52
+ORD00652,2024-10-30,C0070,Drew Garcia,Laptop,Electronics,East,2,1227.22,0.05,2331.72,856.38
+ORD00653,2024-03-05,C0005,Blair Davis,Dumbbells,Sports,South,8,59.14,0.05,449.46,332.95
+ORD00654,2024-03-18,C0005,Blair Brown,Yoga Mat,Sports,West,1,25.86,0.1,23.27,15.78
+ORD00655,2024-10-16,C0135,Jamie Smith,Smartphone,Electronics,Central,2,683.79,0,1367.58,585.36
+ORD00656,2024-12-01,C0076,Alex Garcia,Stapler,Office Supplies,Central,8,8.05,0,64.4,49.24
+ORD00657,2023-04-28,C0146,Skyler Brown,Tablet,Electronics,South,8,448.81,0,3590.48,2078.6
+ORD00658,2023-03-06,C0104,Cameron Brown,Notebook,Office Supplies,West,9,6.02,0,54.18,36.98
+ORD00659,2024-08-17,C0097,Taylor Martinez,Dumbbells,Sports,South,10,58.96,0.1,530.64,390.34
+ORD00660,2023-05-07,C0113,Alex Smith,Dumbbells,Sports,South,5,59.48,0.15,252.79,182.0
+ORD00661,2023-01-14,C0044,Alex Williams,Dumbbells,Sports,Central,9,58.99,0,530.91,404.5
+ORD00662,2024-10-16,C0085,Morgan Jones,Basketball,Sports,West,10,29.27,0.1,263.43,169.11
+ORD00663,2024-05-17,C0002,Casey Martinez,Pen,Office Supplies,West,10,2.09,0,20.9,16.32
+ORD00664,2023-02-06,C0032,Casey Brown,Basketball,Sports,East,6,30.45,0.15,155.29,95.56
+ORD00665,2023-01-31,C0011,Alex Garcia,Tablet,Electronics,South,5,428.79,0.05,2036.75,1047.36
+ORD00666,2023-04-19,C0058,Alex Smith,Desk,Furniture,West,2,262.33,0.15,445.96,298.51
+ORD00667,2024-12-20,C0087,Jamie Johnson,Yoga Mat,Sports,East,7,24.52,0,171.64,119.27
+ORD00668,2023-07-07,C0148,Casey Miller,Jacket,Clothing,West,7,124.94,0.15,743.39,473.63
+ORD00669,2023-03-20,C0053,Blair Martinez,Desk,Furniture,South,7,253.03,0.1,1594.09,1070.37
+ORD00670,2023-12-17,C0092,Jordan Brown,Shoes,Clothing,East,10,85.9,0.15,730.15,457.57
+ORD00671,2023-01-07,C0019,Skyler Jones,Laptop,Electronics,Central,1,1169.35,0.05,1110.88,373.14
+ORD00672,2023-06-19,C0038,Jamie Williams,Chair,Furniture,Central,2,115.83,0.05,220.08,140.75
+ORD00673,2023-12-07,C0100,Casey Rodriguez,Desk,Furniture,East,7,243.75,0,1706.25,1188.13
+ORD00674,2024-11-13,C0122,Casey Rodriguez,Bookshelf,Furniture,Central,6,185.51,0.1,1001.75,665.42
+ORD00675,2023-08-25,C0010,Taylor Brown,Table,Furniture,East,10,403.11,0,4031.1,2671.59
+ORD00676,2023-07-18,C0056,Taylor Brown,Dress,Clothing,Central,8,82.92,0,663.36,475.27
+ORD00677,2024-01-09,C0118,Drew Jones,Desk,Furniture,South,1,255.41,0.15,217.1,142.39
+ORD00678,2024-03-09,C0059,Skyler Johnson,Pen,Office Supplies,East,2,1.98,0.05,3.76,2.77
+ORD00679,2023-08-24,C0132,Alex Smith,T-Shirt,Clothing,East,10,19.19,0,191.9,145.68
+ORD00680,2024-06-26,C0102,Jordan Smith,Dumbbells,Sports,East,5,62.78,0.05,298.2,228.24
+ORD00681,2023-05-15,C0083,Drew Brown,Smartphone,Electronics,North,1,707.1,0.15,601.03,208.82
+ORD00682,2023-11-25,C0076,Drew Garcia,Smartphone,Electronics,West,3,665.52,0,1996.56,807.03
+ORD00683,2023-04-27,C0078,Taylor Davis,Monitor,Electronics,South,1,297.74,0,297.74,157.36
+ORD00684,2023-05-12,C0135,Jamie Davis,Paper Ream,Office Supplies,North,7,9.74,0.1,61.36,41.73
+ORD00685,2023-02-25,C0042,Cameron Jones,Basketball,Sports,East,1,30.04,0,30.04,20.47
+ORD00686,2023-04-15,C0123,Alex Martinez,Jeans,Clothing,East,6,61.13,0.1,330.1,212.72
+ORD00687,2023-11-25,C0126,Cameron Rodriguez,Dress,Clothing,East,4,81.55,0.1,293.58,201.14
+ORD00688,2024-10-09,C0150,Cameron Brown,Smartphone,Electronics,Central,10,729.37,0.15,6199.64,2284.85
+ORD00689,2023-10-24,C0116,Drew Jones,Dumbbells,Sports,West,3,59.11,0,177.33,132.47
+ORD00690,2024-08-21,C0059,Casey Smith,Dress,Clothing,Central,8,82.39,0,659.12,474.34
+ORD00691,2024-11-11,C0124,Morgan Garcia,Paper Ream,Office Supplies,South,10,10.45,0,104.5,76.37
+ORD00692,2023-11-27,C0110,Drew Williams,Monitor,Electronics,Central,5,309.6,0,1548.0,831.74
+ORD00693,2024-06-08,C0049,Morgan Smith,Laptop,Electronics,South,10,1214.09,0.1,10926.81,3102.0
+ORD00694,2024-08-31,C0101,Jamie Garcia,Running Shoes,Sports,East,5,123.09,0,615.45,422.04
+ORD00695,2024-06-24,C0104,Skyler Smith,Dress,Clothing,West,10,79.77,0.1,717.93,472.08
+ORD00696,2024-01-28,C0146,Morgan Smith,T-Shirt,Clothing,North,10,19.39,0,193.9,145.63
+ORD00697,2024-11-30,C0054,Jordan Davis,Chair,Furniture,West,10,116.11,0,1161.1,794.83
+ORD00698,2023-03-02,C0012,Blair Jones,Laptop,Electronics,East,1,1152.38,0,1152.38,379.69
+ORD00699,2024-02-01,C0044,Drew Smith,T-Shirt,Clothing,East,10,19.47,0,194.7,148.35
+ORD00700,2023-08-16,C0053,Skyler Jones,Shoes,Clothing,South,1,87.73,0.05,83.34,55.15
+ORD00701,2023-09-04,C0004,Drew Davis,Shoes,Clothing,East,10,93.84,0,938.4,646.34
+ORD00702,2024-07-30,C0150,Blair Rodriguez,Monitor,Electronics,South,1,296.33,0,296.33,148.7
+ORD00703,2023-04-09,C0047,Jamie Miller,Notebook,Office Supplies,East,7,6.05,0,42.35,29.38
+ORD00704,2023-11-11,C0007,Jordan Miller,Headphones,Electronics,West,3,94.15,0.05,268.33,186.1
+ORD00705,2023-10-16,C0076,Jamie Johnson,Jacket,Clothing,East,4,125.83,0.05,478.15,330.78
+ORD00706,2023-07-10,C0062,Casey Jones,Table,Furniture,South,2,409.7,0.15,696.49,411.31
+ORD00707,2023-04-11,C0140,Blair Jones,Pen,Office Supplies,East,6,2.0,0.1,10.8,7.87
+ORD00708,2024-02-20,C0135,Drew Smith,Stapler,Office Supplies,North,6,8.06,0.1,43.52,32.32
+ORD00709,2024-06-19,C0104,Jordan Miller,Running Shoes,Sports,North,10,118.42,0,1184.2,804.52
+ORD00710,2024-10-15,C0107,Alex Jones,Tennis Racket,Sports,West,4,89.41,0,357.64,238.77
+ORD00711,2024-09-09,C0050,Cameron Davis,Stapler,Office Supplies,South,10,7.88,0,78.8,60.7
+ORD00712,2023-08-04,C0060,Cameron Johnson,Sofa,Furniture,North,10,859.41,0,8594.1,4907.82
+ORD00713,2023-07-26,C0088,Alex Williams,Running Shoes,Sports,West,8,122.92,0.15,835.86,539.1
+ORD00714,2023-09-01,C0081,Jordan Davis,Dumbbells,Sports,East,7,61.39,0,429.73,325.86
+ORD00715,2024-08-27,C0136,Alex Jones,Monitor,Electronics,East,1,301.83,0,301.83,164.82
+ORD00716,2023-05-05,C0050,Skyler Miller,Paper Ream,Office Supplies,North,5,9.71,0.15,41.27,26.42
+ORD00717,2023-11-01,C0041,Blair Garcia,T-Shirt,Clothing,West,1,20.67,0.05,19.64,15.01
+ORD00718,2024-04-23,C0056,Blair Rodriguez,Chair,Furniture,South,4,117.22,0,468.88,315.35
+ORD00719,2023-07-05,C0019,Cameron Johnson,T-Shirt,Clothing,South,8,19.9,0.1,143.28,103.42
+ORD00720,2024-01-08,C0023,Jamie Jones,Table,Furniture,West,9,416.29,0.1,3371.95,2086.03
+ORD00721,2024-04-15,C0116,Cameron Rodriguez,Bookshelf,Furniture,West,8,184.02,0.1,1324.94,868.16
+ORD00722,2023-08-01,C0114,Skyler Rodriguez,Shoes,Clothing,Central,2,93.31,0.15,158.63,101.7
+ORD00723,2023-04-30,C0024,Alex Smith,Running Shoes,Sports,Central,10,125.33,0,1253.3,888.97
+ORD00724,2024-08-21,C0044,Taylor Davis,Shoes,Clothing,South,4,88.32,0.05,335.62,222.7
+ORD00725,2024-11-27,C0047,Drew Miller,T-Shirt,Clothing,Central,3,20.8,0,62.4,47.74
+ORD00726,2024-10-26,C0117,Casey Garcia,Desk,Furniture,North,1,261.74,0.05,248.65,175.61
+ORD00727,2023-04-25,C0077,Cameron Johnson,Headphones,Electronics,South,9,89.04,0.1,721.22,471.04
+ORD00728,2024-06-03,C0129,Taylor Johnson,Tablet,Electronics,West,7,444.53,0,3111.71,1757.98
+ORD00729,2024-10-16,C0055,Cameron Brown,T-Shirt,Clothing,South,10,19.2,0.15,163.2,115.36
+ORD00730,2024-03-01,C0043,Jordan Martinez,Notebook,Office Supplies,West,4,6.23,0.1,22.43,14.86
+ORD00731,2024-04-03,C0012,Jamie Johnson,Tennis Racket,Sports,Central,9,86.54,0.05,739.92,476.87
+ORD00732,2023-01-25,C0067,Morgan Rodriguez,Sofa,Furniture,North,2,908.7,0,1817.4,1093.02
+ORD00733,2024-12-26,C0025,Skyler Johnson,Monitor,Electronics,Central,4,296.9,0,1187.6,641.12
+ORD00734,2024-11-25,C0051,Casey Miller,Shoes,Clothing,West,9,92.25,0.05,788.74,527.03
+ORD00735,2024-07-15,C0082,Cameron Brown,T-Shirt,Clothing,West,1,19.59,0,19.59,14.6
+ORD00736,2024-04-17,C0035,Skyler Johnson,Basketball,Sports,South,7,30.35,0.05,201.83,132.23
+ORD00737,2024-02-03,C0102,Cameron Johnson,Jacket,Clothing,West,5,124.55,0,622.75,435.66
+ORD00738,2023-04-14,C0036,Blair Rodriguez,Tablet,Electronics,South,8,452.44,0.05,3438.54,1908.75
+ORD00739,2024-03-10,C0056,Jamie Davis,Laptop,Electronics,South,1,1243.73,0,1243.73,446.81
+ORD00740,2023-05-06,C0145,Taylor Johnson,Paper Ream,Office Supplies,East,10,10.14,0.1,91.26,63.12
+ORD00741,2024-02-27,C0053,Drew Rodriguez,Tablet,Electronics,North,8,447.63,0.05,3401.99,1863.21
+ORD00742,2023-11-22,C0035,Morgan Williams,T-Shirt,Clothing,Central,2,20.97,0,41.94,32.63
+ORD00743,2023-05-03,C0090,Blair Jones,Monitor,Electronics,South,6,288.77,0,1732.62,910.75
+ORD00744,2023-01-25,C0092,Casey Smith,Chair,Furniture,East,4,116.2,0.1,418.32,268.76
+ORD00745,2024-09-27,C0042,Cameron Rodriguez,Jacket,Clothing,East,9,118.59,0.15,907.21,553.37
+ORD00746,2023-04-05,C0078,Casey Rodriguez,Monitor,Electronics,Central,6,289.64,0.05,1650.95,825.65
+ORD00747,2023-11-11,C0029,Drew Davis,Table,Furniture,East,7,382.66,0.15,2276.83,1289.62
+ORD00748,2023-05-23,C0087,Skyler Martinez,Headphones,Electronics,East,2,88.68,0,177.36,122.3
+ORD00749,2023-12-08,C0122,Morgan Johnson,Dumbbells,Sports,North,5,57.46,0,287.3,215.24
+ORD00750,2024-01-06,C0025,Alex Brown,Bookshelf,Furniture,East,1,172.14,0,172.14,113.85
+ORD00751,2024-08-17,C0043,Jordan Martinez,Pen,Office Supplies,North,3,1.96,0,5.88,4.44
+ORD00752,2023-10-12,C0049,Casey Martinez,Table,Furniture,South,10,384.46,0.1,3460.14,1960.94
+ORD00753,2024-02-06,C0134,Alex Rodriguez,Monitor,Electronics,North,10,293.45,0.05,2787.78,1365.54
+ORD00754,2024-07-11,C0115,Cameron Rodriguez,Shoes,Clothing,Central,4,93.03,0.15,316.3,204.81
+ORD00755,2023-08-17,C0005,Drew Rodriguez,File Folder,Office Supplies,West,7,3.98,0.15,23.68,16.86
+ORD00756,2024-08-05,C0072,Taylor Rodriguez,Laptop,Electronics,East,3,1151.49,0,3454.47,1147.75
+ORD00757,2024-04-18,C0146,Cameron Garcia,Chair,Furniture,South,3,124.77,0.15,318.16,198.51
+ORD00758,2023-12-27,C0125,Alex Jones,Chair,Furniture,Central,1,123.25,0,123.25,83.34
+ORD00759,2024-09-28,C0090,Morgan Williams,Headphones,Electronics,West,6,86.52,0,519.12,346.54
+ORD00760,2023-03-18,C0107,Cameron Martinez,Sofa,Furniture,East,1,920.26,0.05,874.25,507.26
+ORD00761,2023-03-25,C0099,Taylor Miller,Chair,Furniture,West,10,123.82,0,1238.2,871.84
+ORD00762,2024-09-05,C0049,Jamie Martinez,Sofa,Furniture,Central,1,944.46,0,944.46,573.94
+ORD00763,2024-07-14,C0105,Alex Smith,Jacket,Clothing,West,4,121.36,0,485.44,325.69
+ORD00764,2023-04-04,C0063,Alex Williams,Monitor,Electronics,West,4,309.35,0,1237.4,679.9
+ORD00765,2023-11-04,C0026,Alex Martinez,File Folder,Office Supplies,West,9,4.12,0,37.08,28.48
+ORD00766,2024-12-01,C0019,Drew Smith,Pen,Office Supplies,South,2,1.97,0.15,3.35,2.37
+ORD00767,2023-12-12,C0011,Cameron Smith,Jeans,Clothing,South,8,58.2,0,465.6,309.43
+ORD00768,2023-06-14,C0119,Casey Williams,Table,Furniture,North,10,399.53,0.15,3396.0,2007.13
+ORD00769,2024-03-01,C0101,Casey Davis,Monitor,Electronics,West,8,308.42,0.1,2220.62,1059.65
+ORD00770,2024-06-05,C0030,Jordan Johnson,File Folder,Office Supplies,North,5,3.89,0,19.45,14.95
+ORD00771,2024-08-13,C0126,Skyler Johnson,Shoes,Clothing,South,2,91.1,0.05,173.09,113.81
+ORD00772,2023-10-09,C0093,Blair Smith,Dress,Clothing,South,6,81.32,0,487.92,352.26
+ORD00773,2024-11-30,C0117,Skyler Garcia,Monitor,Electronics,West,9,302.32,0.05,2584.84,1235.99
+ORD00774,2024-01-09,C0105,Jamie Williams,Dumbbells,Sports,East,2,60.11,0.15,102.19,73.79
+ORD00775,2023-01-18,C0004,Morgan Garcia,Headphones,Electronics,North,10,89.65,0,896.5,605.19
+ORD00776,2024-03-11,C0013,Cameron Brown,Jacket,Clothing,Central,1,121.08,0.1,108.97,70.48
+ORD00777,2023-11-03,C0041,Alex Brown,Monitor,Electronics,Central,8,301.43,0,2411.44,1271.9
+ORD00778,2024-07-15,C0120,Casey Brown,Jacket,Clothing,North,1,114.13,0,114.13,77.89
+ORD00779,2024-03-31,C0146,Blair Smith,Basketball,Sports,South,5,31.25,0.05,148.44,101.52
+ORD00780,2024-07-17,C0026,Jordan Johnson,Stapler,Office Supplies,Central,6,7.97,0.1,43.04,31.84
+ORD00781,2023-05-10,C0075,Blair Johnson,Jacket,Clothing,West,8,115.34,0.1,830.45,523.74
+ORD00782,2024-08-25,C0032,Cameron Jones,Tennis Racket,Sports,North,7,93.4,0,653.8,459.36
+ORD00783,2023-08-25,C0144,Cameron Jones,Sofa,Furniture,West,7,890.66,0,6234.62,3607.53
+ORD00784,2024-09-28,C0006,Morgan Brown,Basketball,Sports,Central,9,30.09,0.05,257.27,175.34
+ORD00785,2024-10-09,C0103,Taylor Johnson,Headphones,Electronics,South,4,90.59,0,362.36,253.31
+ORD00786,2024-06-15,C0010,Blair Miller,Headphones,Electronics,North,8,92.79,0.1,668.09,429.17
+ORD00787,2023-01-04,C0109,Alex Brown,Sofa,Furniture,West,2,944.72,0,1889.44,1138.33
+ORD00788,2024-05-08,C0045,Casey Davis,T-Shirt,Clothing,West,2,20.69,0.15,35.17,25.49
+ORD00789,2023-02-01,C0112,Casey Johnson,Shoes,Clothing,North,2,94.09,0.1,169.36,111.57
+ORD00790,2024-04-22,C0133,Cameron Williams,Shoes,Clothing,West,8,88.56,0,708.48,484.85
+ORD00791,2024-10-11,C0138,Alex Brown,Tennis Racket,Sports,West,8,87.58,0,700.64,481.58
+ORD00792,2024-10-05,C0085,Blair Garcia,Smartphone,Electronics,East,10,694.29,0.1,6248.61,2256.3
+ORD00793,2024-07-01,C0094,Alex Williams,Basketball,Sports,East,1,30.56,0.15,25.98,16.85
+ORD00794,2023-04-12,C0020,Skyler Martinez,Desk,Furniture,West,2,255.62,0,511.24,357.67
+ORD00795,2023-11-14,C0072,Casey Garcia,Headphones,Electronics,Central,4,89.41,0,357.64,245.47
+ORD00796,2024-06-24,C0069,Blair Garcia,T-Shirt,Clothing,West,5,20.86,0.1,93.87,70.03
+ORD00797,2024-07-20,C0025,Taylor Miller,Pen,Office Supplies,West,6,2.05,0.05,11.68,8.81
+ORD00798,2024-03-13,C0123,Jamie Rodriguez,Tablet,Electronics,North,10,427.95,0.1,3851.55,1923.43
+ORD00799,2023-01-22,C0089,Drew Williams,Notebook,Office Supplies,South,7,6.05,0.05,40.23,26.26
+ORD00800,2024-06-08,C0069,Skyler Smith,Headphones,Electronics,North,8,91.37,0.15,621.32,383.97
+ORD00801,2024-08-19,C0121,Cameron Garcia,Basketball,Sports,South,4,28.5,0.15,96.9,60.26
+ORD00802,2023-11-24,C0088,Skyler Martinez,Jacket,Clothing,Central,9,125.3,0.15,958.54,617.1
+ORD00803,2024-06-08,C0126,Casey Garcia,Paper Ream,Office Supplies,West,5,10.01,0,50.05,35.24
+ORD00804,2023-05-07,C0076,Cameron Johnson,Pen,Office Supplies,West,3,2.09,0,6.27,4.83
+ORD00805,2023-11-24,C0111,Cameron Garcia,Desk,Furniture,West,1,237.92,0,237.92,160.08
+ORD00806,2023-04-24,C0121,Skyler Martinez,Yoga Mat,Sports,Central,3,26.15,0.1,70.6,47.35
+ORD00807,2023-02-21,C0139,Alex Brown,File Folder,Office Supplies,Central,3,3.95,0.1,10.67,7.83
+ORD00808,2024-01-03,C0055,Cameron Miller,Pen,Office Supplies,Central,10,1.96,0,19.6,15.06
+ORD00809,2024-04-16,C0061,Taylor Miller,Yoga Mat,Sports,West,7,24.92,0.1,157.0,102.41
+ORD00810,2024-03-25,C0053,Blair Johnson,Smartphone,Electronics,West,5,725.68,0,3628.4,1661.59
+ORD00811,2024-01-30,C0137,Jamie Davis,Bookshelf,Furniture,Central,8,171.72,0.15,1167.7,718.42
+ORD00812,2023-07-11,C0068,Jordan Williams,Sofa,Furniture,South,3,905.86,0.1,2445.82,1257.4
+ORD00813,2023-07-17,C0025,Cameron Rodriguez,Table,Furniture,East,2,404.84,0,809.68,520.51
+ORD00814,2024-08-01,C0098,Drew Martinez,Shoes,Clothing,South,5,88.45,0,442.25,303.47
+ORD00815,2023-01-28,C0137,Jamie Martinez,Dress,Clothing,East,3,77.89,0.15,198.62,126.88
+ORD00816,2024-07-31,C0002,Taylor Jones,Dress,Clothing,South,7,82.08,0,574.56,403.9
+ORD00817,2023-09-18,C0013,Jamie Smith,Laptop,Electronics,North,5,1148.45,0,5742.25,1778.27
+ORD00818,2024-09-11,C0115,Alex Martinez,Pen,Office Supplies,West,3,1.96,0.05,5.59,4.14
+ORD00819,2023-06-02,C0149,Casey Jones,Laptop,Electronics,North,2,1149.75,0.15,1954.58,402.53
+ORD00820,2023-04-12,C0087,Taylor Rodriguez,Desk,Furniture,West,9,247.22,0.15,1891.23,1232.79
+ORD00821,2024-07-29,C0083,Casey Williams,Dumbbells,Sports,North,6,61.6,0,369.6,280.84
+ORD00822,2024-03-25,C0013,Jamie Rodriguez,Bookshelf,Furniture,East,4,172.88,0.1,622.37,403.11
+ORD00823,2023-05-27,C0133,Drew Jones,Laptop,Electronics,East,6,1171.09,0.15,5972.56,1457.98
+ORD00824,2023-09-08,C0089,Drew Jones,Sofa,Furniture,North,8,911.22,0,7289.76,4347.21
+ORD00825,2023-11-28,C0053,Jamie Davis,Monitor,Electronics,East,3,297.62,0,892.86,448.06
+ORD00826,2024-05-04,C0004,Cameron Johnson,Running Shoes,Sports,East,3,120.14,0,360.42,242.73
+ORD00827,2023-10-25,C0092,Drew Garcia,Tennis Racket,Sports,North,1,91.78,0.1,82.6,53.41
+ORD00828,2023-01-14,C0095,Jamie Jones,Dress,Clothing,North,4,82.16,0,328.64,228.8
+ORD00829,2024-02-06,C0025,Blair Martinez,File Folder,Office Supplies,South,8,3.92,0,31.36,23.73
+ORD00830,2024-04-10,C0029,Taylor Martinez,Jeans,Clothing,North,4,59.18,0,236.72,157.08
+ORD00831,2023-02-15,C0123,Casey Johnson,T-Shirt,Clothing,South,7,20.37,0,142.59,109.59
+ORD00832,2024-10-08,C0028,Skyler Jones,Yoga Mat,Sports,South,2,24.78,0.05,47.08,31.88
+ORD00833,2024-02-23,C0060,Drew Jones,Paper Ream,Office Supplies,West,1,9.93,0,9.93,7.15
+ORD00834,2023-03-18,C0130,Casey Brown,Tablet,Electronics,Central,1,442.04,0,442.04,252.32
+ORD00835,2024-05-20,C0095,Cameron Johnson,Notebook,Office Supplies,West,2,6.25,0,12.5,8.72
+ORD00836,2023-02-01,C0007,Jamie Johnson,Dumbbells,Sports,South,1,57.47,0.05,54.6,40.66
+ORD00837,2024-01-08,C0044,Drew Williams,Jacket,Clothing,Central,7,116.15,0,813.05,546.95
+ORD00838,2024-02-20,C0053,Skyler Davis,Sofa,Furniture,South,8,902.55,0.05,6859.38,3802.57
+ORD00839,2023-01-09,C0010,Blair Davis,Chair,Furniture,West,6,116.91,0,701.46,470.49
+ORD00840,2023-04-12,C0146,Morgan Johnson,Notebook,Office Supplies,West,1,5.71,0.05,5.42,3.44
+ORD00841,2024-09-13,C0130,Jordan Garcia,Monitor,Electronics,West,8,287.43,0,2299.44,1121.48
+ORD00842,2024-01-21,C0047,Taylor Smith,Headphones,Electronics,North,2,85.73,0.1,154.31,98.74
+ORD00843,2023-10-22,C0035,Taylor Smith,Shoes,Clothing,West,1,86.64,0.1,77.98,48.17
+ORD00844,2024-09-21,C0087,Casey Davis,Jacket,Clothing,West,4,117.18,0.1,421.85,274.86
+ORD00845,2024-12-07,C0096,Skyler Martinez,Sofa,Furniture,East,3,879.06,0,2637.18,1550.33
+ORD00846,2024-05-26,C0090,Alex Davis,Desk,Furniture,West,3,258.48,0.1,697.9,476.57
+ORD00847,2023-05-20,C0093,Cameron Martinez,Stapler,Office Supplies,West,9,7.66,0,68.94,51.44
+ORD00848,2024-12-06,C0106,Morgan Smith,Shoes,Clothing,South,4,93.74,0,374.96,265.67
+ORD00849,2023-12-01,C0019,Taylor Rodriguez,Chair,Furniture,West,9,119.07,0,1071.63,735.55
+ORD00850,2023-11-07,C0002,Morgan Williams,Dress,Clothing,West,4,78.37,0.05,297.81,202.97
+ORD00851,2024-06-17,C0005,Drew Jones,Tennis Racket,Sports,South,7,93.04,0.05,618.72,411.36
+ORD00852,2024-02-09,C0060,Alex Martinez,Stapler,Office Supplies,East,5,8.2,0.15,34.85,25.73
+ORD00853,2024-09-23,C0021,Drew Smith,Smartphone,Electronics,North,4,687.76,0.1,2475.94,986.66
+ORD00854,2024-09-26,C0001,Taylor Brown,Yoga Mat,Sports,West,7,26.12,0.15,155.41,100.17
+ORD00855,2024-11-12,C0057,Skyler Brown,Monitor,Electronics,West,7,288.66,0.1,1818.56,783.34
+ORD00856,2024-12-10,C0103,Taylor Williams,Chair,Furniture,West,3,118.51,0.05,337.75,219.73
+ORD00857,2023-12-26,C0033,Taylor Davis,Bookshelf,Furniture,East,8,177.19,0.1,1275.77,800.56
+ORD00858,2024-03-25,C0090,Blair Smith,Smartphone,Electronics,West,4,725.84,0,2903.36,1342.98
+ORD00859,2024-04-21,C0095,Casey Garcia,Dumbbells,Sports,East,3,59.92,0,179.76,139.13
+ORD00860,2023-06-29,C0142,Taylor Johnson,Bookshelf,Furniture,Central,7,188.38,0.15,1120.86,710.57
+ORD00861,2023-03-15,C0001,Jordan Davis,Notebook,Office Supplies,South,1,6.12,0.05,5.81,4.01
+ORD00862,2023-02-07,C0144,Casey Davis,Laptop,Electronics,West,5,1256.85,0.1,5655.82,2045.13
+ORD00863,2023-08-20,C0108,Casey Miller,Notebook,Office Supplies,North,10,6.15,0,61.5,41.97
+ORD00864,2023-06-30,C0123,Alex Davis,Dumbbells,Sports,South,6,57.9,0,347.4,259.41
+ORD00865,2024-06-07,C0007,Casey Garcia,Sofa,Furniture,West,7,866.3,0,6064.1,3285.72
+ORD00866,2023-09-13,C0150,Skyler Jones,Table,Furniture,Central,1,414.14,0,414.14,269.22
+ORD00867,2024-07-13,C0143,Casey Garcia,Bookshelf,Furniture,West,2,177.92,0.15,302.46,190.81
+ORD00868,2024-03-19,C0003,Blair Rodriguez,Pen,Office Supplies,East,2,2.0,0,4.0,3.04
+ORD00869,2023-01-24,C0107,Skyler Garcia,File Folder,Office Supplies,Central,3,4.17,0,12.51,9.54
+ORD00870,2023-02-05,C0062,Blair Johnson,Monitor,Electronics,South,1,304.53,0,304.53,164.16
+ORD00871,2023-05-01,C0039,Drew Williams,File Folder,Office Supplies,West,6,3.81,0,22.86,16.97
+ORD00872,2023-02-11,C0020,Jamie Jones,Dumbbells,Sports,Central,3,58.16,0.1,157.03,114.2
+ORD00873,2023-08-29,C0123,Drew Miller,Table,Furniture,South,8,413.24,0.1,2975.33,1847.43
+ORD00874,2023-03-20,C0048,Morgan Jones,Smartphone,Electronics,North,10,712.19,0.1,6409.71,2691.26
+ORD00875,2024-08-02,C0089,Jamie Jones,Desk,Furniture,North,10,243.82,0.1,2194.38,1427.66
+ORD00876,2023-07-26,C0057,Alex Rodriguez,Headphones,Electronics,West,2,87.04,0,174.08,115.69
+ORD00877,2024-11-26,C0016,Cameron Smith,Tablet,Electronics,West,10,427.53,0,4275.3,2433.23
+ORD00878,2023-12-08,C0111,Morgan Martinez,Shoes,Clothing,South,8,92.29,0.1,664.49,434.88
+ORD00879,2024-02-27,C0125,Taylor Miller,Smartphone,Electronics,North,9,665.06,0.05,5686.26,2153.09
+ORD00880,2024-01-18,C0076,Jordan Smith,Monitor,Electronics,West,2,300.0,0.05,570.0,272.68
+ORD00881,2023-08-10,C0006,Blair Rodriguez,File Folder,Office Supplies,Central,2,4.17,0.05,7.92,6.09
+ORD00882,2024-04-27,C0075,Drew Smith,Tennis Racket,Sports,North,6,86.52,0.1,467.21,303.77
+ORD00883,2024-10-06,C0026,Jordan Smith,Chair,Furniture,West,3,116.24,0.05,331.28,214.88
+ORD00884,2023-04-23,C0036,Jamie Martinez,Yoga Mat,Sports,East,6,24.92,0,149.52,101.92
+ORD00885,2024-09-25,C0084,Alex Miller,T-Shirt,Clothing,South,10,20.01,0,200.1,155.05
+ORD00886,2024-01-24,C0002,Casey Jones,Shoes,Clothing,West,3,92.7,0.05,264.19,178.92
+ORD00887,2024-12-16,C0077,Casey Rodriguez,Bookshelf,Furniture,East,5,185.84,0.05,882.74,606.07
+ORD00888,2024-03-18,C0084,Casey Miller,Notebook,Office Supplies,Central,6,5.94,0,35.64,23.76
+ORD00889,2024-10-18,C0114,Jordan Miller,Laptop,Electronics,South,3,1217.08,0,3651.24,1451.78
+ORD00890,2024-06-23,C0007,Taylor Johnson,File Folder,Office Supplies,Central,8,4.03,0,32.24,24.89
+ORD00891,2024-02-16,C0109,Blair Miller,Chair,Furniture,West,6,118.42,0.05,674.99,454.21
+ORD00892,2024-08-22,C0043,Morgan Garcia,File Folder,Office Supplies,South,7,3.89,0.05,25.87,19.44
+ORD00893,2024-05-10,C0120,Cameron Miller,Pen,Office Supplies,South,5,1.9,0,9.5,7.03
+ORD00894,2023-02-11,C0116,Taylor Smith,T-Shirt,Clothing,West,5,20.07,0,100.35,77.2
+ORD00895,2024-11-18,C0128,Drew Miller,Jeans,Clothing,East,3,59.77,0.1,161.38,105.93
+ORD00896,2024-02-29,C0027,Drew Davis,Smartphone,Electronics,South,7,678.82,0.05,4514.15,1741.29
+ORD00897,2024-08-09,C0060,Alex Martinez,Running Shoes,Sports,West,5,116.66,0.1,524.97,327.94
+ORD00898,2024-03-17,C0078,Blair Rodriguez,Chair,Furniture,East,5,114.61,0,573.05,382.01
+ORD00899,2024-08-04,C0065,Jamie Rodriguez,Laptop,Electronics,East,4,1209.75,0.15,4113.15,1113.62
+ORD00900,2023-06-27,C0014,Morgan Jones,Paper Ream,Office Supplies,West,5,10.27,0.1,46.21,32.11
+ORD00901,2024-06-20,C0102,Taylor Davis,Tablet,Electronics,Central,7,456.34,0.15,2715.22,1448.92
+ORD00902,2023-07-12,C0073,Casey Garcia,Notebook,Office Supplies,West,8,5.73,0,45.84,30.18
+ORD00903,2023-08-19,C0123,Casey Johnson,Dumbbells,Sports,Central,4,61.74,0,246.96,189.22
+ORD00904,2024-02-28,C0065,Cameron Brown,Desk,Furniture,East,10,239.99,0.05,2279.91,1532.18
+ORD00905,2023-01-06,C0072,Alex Brown,Dress,Clothing,East,10,81.79,0.1,736.11,504.54
+ORD00906,2023-02-24,C0118,Blair Smith,Sofa,Furniture,East,3,871.16,0,2613.48,1430.55
+ORD00907,2024-01-27,C0093,Drew Brown,Jacket,Clothing,South,7,120.33,0,842.31,564.56
+ORD00908,2023-12-11,C0138,Taylor Smith,Notebook,Office Supplies,South,4,5.74,0,22.96,15.23
+ORD00909,2023-04-20,C0121,Skyler Williams,Desk,Furniture,South,2,242.1,0.05,459.99,314.69
+ORD00910,2024-10-19,C0142,Cameron Miller,File Folder,Office Supplies,Central,8,3.93,0,31.44,23.62
+ORD00911,2023-04-08,C0025,Skyler Miller,Sofa,Furniture,East,6,912.34,0.1,4926.64,2624.52
+ORD00912,2024-07-14,C0103,Alex Davis,Smartphone,Electronics,East,10,707.58,0,7075.8,3278.88
+ORD00913,2024-07-31,C0018,Morgan Williams,Table,Furniture,West,4,403.49,0,1613.96,1071.29
+ORD00914,2024-07-16,C0024,Cameron Smith,T-Shirt,Clothing,West,6,20.12,0.15,102.61,74.61
+ORD00915,2023-02-04,C0004,Jordan Jones,Bookshelf,Furniture,North,8,175.89,0,1407.12,967.97
+ORD00916,2024-11-29,C0078,Casey Rodriguez,Notebook,Office Supplies,East,7,5.76,0.1,36.29,22.43
+ORD00917,2023-09-27,C0064,Skyler Davis,Yoga Mat,Sports,East,3,24.15,0.15,61.58,39.32
+ORD00918,2023-01-09,C0117,Cameron Miller,File Folder,Office Supplies,West,6,3.88,0.1,20.95,15.21
+ORD00919,2024-12-09,C0148,Taylor Johnson,Chair,Furniture,South,4,124.29,0,497.16,345.1
+ORD00920,2023-08-09,C0098,Jordan Jones,Monitor,Electronics,West,7,296.98,0,2078.86,1113.28
+ORD00921,2024-10-14,C0139,Skyler Miller,Stapler,Office Supplies,West,2,7.91,0.15,13.45,9.8
+ORD00922,2023-08-17,C0145,Blair Brown,Stapler,Office Supplies,East,7,8.28,0.15,49.27,35.45
+ORD00923,2024-07-28,C0066,Drew Garcia,Smartphone,Electronics,West,9,720.9,0.1,5839.29,2431.37
+ORD00924,2024-01-15,C0071,Jamie Martinez,Tablet,Electronics,Central,1,429.22,0.1,386.3,186.67
+ORD00925,2024-04-03,C0128,Jamie Williams,Smartphone,Electronics,Central,7,687.98,0.05,4575.07,1844.51
+ORD00926,2023-10-16,C0041,Blair Jones,Laptop,Electronics,Central,8,1205.73,0,9645.84,3694.33
+ORD00927,2024-01-01,C0022,Taylor Johnson,Smartphone,Electronics,West,3,691.67,0,2075.01,919.04
+ORD00928,2023-10-23,C0144,Jamie Johnson,Paper Ream,Office Supplies,West,5,9.85,0,49.25,34.89
+ORD00929,2024-02-15,C0076,Cameron Brown,Basketball,Sports,East,5,29.44,0,147.2,100.73
+ORD00930,2023-11-14,C0060,Casey Martinez,Shoes,Clothing,East,4,88.31,0.1,317.92,202.89
+ORD00931,2023-11-19,C0039,Drew Smith,Tennis Racket,Sports,Central,2,93.34,0.1,168.01,108.07
+ORD00932,2023-12-28,C0011,Cameron Davis,T-Shirt,Clothing,South,6,19.57,0.1,105.68,76.71
+ORD00933,2023-01-08,C0057,Drew Davis,Yoga Mat,Sports,Central,2,24.74,0,49.48,34.8
+ORD00934,2023-04-02,C0091,Drew Johnson,Dumbbells,Sports,Central,1,62.35,0.15,53.0,39.5
+ORD00935,2024-01-23,C0097,Casey Johnson,Table,Furniture,South,3,411.71,0,1235.13,800.25
+ORD00936,2024-12-29,C0072,Cameron Jones,T-Shirt,Clothing,East,1,20.96,0,20.96,16.24
+ORD00937,2023-12-09,C0045,Drew Martinez,Running Shoes,Sports,West,5,119.21,0,596.05,404.35
+ORD00938,2023-07-08,C0115,Jamie Rodriguez,Paper Ream,Office Supplies,West,10,10.13,0,101.3,73.6
+ORD00939,2023-06-01,C0042,Jordan Williams,Tablet,Electronics,South,3,470.02,0,1410.06,863.18
+ORD00940,2024-12-06,C0085,Alex Jones,Basketball,Sports,West,8,30.86,0,246.88,168.0
+ORD00941,2024-12-19,C0070,Morgan Williams,T-Shirt,Clothing,Central,6,20.82,0,124.92,95.05
+ORD00942,2024-05-14,C0127,Alex Martinez,Sofa,Furniture,South,8,937.83,0.05,7127.51,4244.25
+ORD00943,2024-02-21,C0034,Alex Rodriguez,Tablet,Electronics,South,2,448.76,0.15,762.89,366.42
+ORD00944,2024-02-08,C0041,Taylor Williams,Table,Furniture,North,6,407.1,0.15,2076.21,1260.94
+ORD00945,2023-08-15,C0047,Morgan Brown,Pen,Office Supplies,Central,8,1.99,0,15.92,11.93
+ORD00946,2023-10-06,C0095,Jordan Davis,Laptop,Electronics,South,3,1202.75,0,3608.25,1239.68
+ORD00947,2023-06-21,C0144,Alex Brown,T-Shirt,Clothing,East,2,19.77,0,39.54,30.24
+ORD00948,2024-10-27,C0009,Drew Rodriguez,Paper Ream,Office Supplies,East,8,10.34,0,82.72,60.93
+ORD00949,2023-11-23,C0005,Skyler Rodriguez,Bookshelf,Furniture,South,3,185.92,0,557.76,382.39
+ORD00950,2024-11-15,C0016,Blair Miller,Headphones,Electronics,Central,8,89.72,0,717.76,500.48
+ORD00951,2024-08-11,C0132,Blair Jones,Smartphone,Electronics,South,6,667.37,0.1,3603.8,1296.86
+ORD00952,2023-07-20,C0013,Skyler Garcia,T-Shirt,Clothing,East,3,20.09,0.05,57.26,43.13
+ORD00953,2024-06-08,C0070,Taylor Williams,Smartphone,Electronics,West,10,728.13,0.1,6553.17,2613.22
+ORD00954,2024-02-18,C0044,Alex Miller,Bookshelf,Furniture,South,6,178.41,0,1070.46,745.89
+ORD00955,2023-07-17,C0059,Casey Davis,Yoga Mat,Sports,North,6,25.5,0,153.0,107.98
+ORD00956,2024-08-08,C0046,Drew Brown,Jacket,Clothing,North,9,120.61,0.05,1031.22,685.36
+ORD00957,2023-02-24,C0016,Morgan Jones,Shoes,Clothing,East,9,87.21,0,784.89,521.03
+ORD00958,2023-01-10,C0103,Cameron Smith,Jacket,Clothing,West,4,122.84,0,491.36,338.79
+ORD00959,2023-07-29,C0075,Drew Miller,Shoes,Clothing,North,9,91.67,0,825.03,564.46
+ORD00960,2024-12-06,C0101,Jamie Williams,Stapler,Office Supplies,West,9,7.7,0.05,65.83,48.64
+ORD00961,2024-02-05,C0133,Jamie Davis,Sofa,Furniture,East,1,921.44,0.15,783.22,387.51
+ORD00962,2024-06-08,C0141,Casey Miller,Shoes,Clothing,North,7,90.46,0.05,601.56,394.87
+ORD00963,2023-06-09,C0136,Jordan Garcia,Pen,Office Supplies,West,3,2.05,0,6.15,4.78
+ORD00964,2023-11-10,C0027,Taylor Brown,Running Shoes,Sports,North,1,119.8,0.15,101.83,63.22
+ORD00965,2023-06-15,C0048,Casey Brown,Notebook,Office Supplies,South,6,5.88,0.1,31.75,20.59
+ORD00966,2023-09-21,C0140,Blair Brown,Monitor,Electronics,West,7,314.46,0,2201.22,1197.4
+ORD00967,2024-12-14,C0075,Skyler Smith,Tablet,Electronics,East,8,468.52,0,3748.16,2256.86
+ORD00968,2024-05-14,C0011,Alex Garcia,Table,Furniture,Central,9,382.33,0.05,3268.92,1969.41
+ORD00969,2024-02-15,C0108,Jamie Brown,Yoga Mat,Sports,North,7,25.67,0.1,161.72,108.62
+ORD00970,2023-08-27,C0109,Casey Williams,Bookshelf,Furniture,North,7,181.42,0.05,1206.44,791.06
+ORD00971,2024-11-09,C0073,Casey Smith,Sofa,Furniture,Central,3,895.98,0,2687.94,1530.26
+ORD00972,2024-07-02,C0007,Morgan Garcia,Paper Ream,Office Supplies,West,3,9.87,0.1,26.65,17.75
+ORD00973,2024-12-22,C0061,Skyler Brown,Headphones,Electronics,Central,2,90.14,0.1,162.25,107.0
+ORD00974,2023-11-16,C0061,Morgan Brown,Running Shoes,Sports,West,6,119.8,0.15,610.98,376.07
+ORD00975,2024-05-16,C0146,Jordan Martinez,Shoes,Clothing,Central,4,87.69,0.15,298.15,189.23
+ORD00976,2023-05-23,C0079,Blair Martinez,Smartphone,Electronics,South,8,688.12,0.15,4679.22,1737.53
+ORD00977,2024-09-01,C0136,Casey Williams,Jeans,Clothing,East,4,59.05,0.1,212.58,138.15
+ORD00978,2023-06-01,C0137,Cameron Smith,Monitor,Electronics,East,10,289.85,0.15,2463.72,1005.68
+ORD00979,2024-01-23,C0025,Morgan Johnson,Chair,Furniture,West,3,117.49,0.1,317.22,207.56
+ORD00980,2024-01-13,C0010,Blair Martinez,Sofa,Furniture,East,2,930.3,0.05,1767.57,1025.83
+ORD00981,2023-04-03,C0068,Jamie Brown,Pen,Office Supplies,East,1,2.07,0.1,1.86,1.4
+ORD00982,2024-09-21,C0093,Skyler Johnson,Headphones,Electronics,South,9,91.4,0,822.6,574.21
+ORD00983,2023-01-07,C0085,Cameron Jones,T-Shirt,Clothing,North,2,19.75,0,39.5,30.39
+ORD00984,2024-03-19,C0076,Alex Brown,Table,Furniture,West,6,416.71,0,2500.26,1656.44
+ORD00985,2024-03-18,C0003,Morgan Miller,Dress,Clothing,North,8,83.25,0,666.0,473.3
+ORD00986,2024-09-28,C0107,Cameron Smith,Laptop,Electronics,Central,7,1148.13,0.05,7635.06,2590.25
+ORD00987,2024-09-06,C0050,Casey Johnson,Sofa,Furniture,South,1,898.69,0,898.69,513.42
+ORD00988,2024-01-14,C0067,Drew Brown,Headphones,Electronics,West,8,93.85,0.15,638.18,407.57
+ORD00989,2023-12-05,C0063,Morgan Smith,Stapler,Office Supplies,West,6,8.03,0,48.18,36.73
+ORD00990,2023-05-30,C0137,Jordan Davis,Desk,Furniture,Central,2,261.94,0.1,471.49,317.36
+ORD00991,2023-10-03,C0118,Jordan Smith,Jacket,Clothing,West,3,124.37,0.15,317.14,203.01
+ORD00992,2024-01-08,C0038,Alex Williams,Basketball,Sports,East,5,28.88,0.1,129.96,81.97
+ORD00993,2023-03-20,C0098,Cameron Jones,Desk,Furniture,North,8,248.23,0,1985.84,1406.78
+ORD00994,2023-04-25,C0063,Blair Jones,Table,Furniture,Central,4,419.92,0,1679.68,1106.32
+ORD00995,2024-11-05,C0003,Blair Williams,Paper Ream,Office Supplies,South,4,10.21,0.15,34.71,23.18
+ORD00996,2024-07-03,C0125,Casey Brown,Yoga Mat,Sports,North,3,25.02,0,75.06,51.12
+ORD00997,2023-06-24,C0098,Skyler Jones,Stapler,Office Supplies,Central,7,7.74,0.1,48.76,34.78
+ORD00998,2024-06-01,C0147,Drew Johnson,Sofa,Furniture,East,8,881.52,0,7052.16,4024.59
+ORD00999,2023-05-07,C0137,Cameron Smith,File Folder,Office Supplies,South,2,4.06,0.15,6.9,4.96
+ORD01000,2023-12-28,C0083,Alex Brown,Pen,Office Supplies,North,10,1.94,0,19.4,14.73
